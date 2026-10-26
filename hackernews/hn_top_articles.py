@@ -3,8 +3,9 @@
 hn_top_articles.py
 ==================
 Fetch the top 50 Hacker News stories per month, year by year since 2007,
-verify whether each article URL is still reachable, and — for dead URLs —
-look up the closest Wayback Machine snapshot so the content can still be read.
+verify whether each article URL is still reachable, and — for URLs that are not
+confirmed alive — look up the closest Wayback Machine snapshot so the content
+can still be read.
 
 Data source
 -----------
@@ -30,27 +31,40 @@ Story object fields:
     num_comments int   — comment count at time of indexing
     hn_link      str   — canonical HN thread URL
     liveness     obj   — present only when --no-check-urls is NOT set:
-        alive    bool|null — True if server responded 1xx/2xx/3xx
+        alive    bool|null — True:  server answered below 400.
+                             False: gone — HTTP 404/410 or the domain no
+                                    longer resolves.
+                             null:  unknown — blocked (401/403), rate-limited,
+                                    server error, timeout, TLS error; or no URL.
         status   int|null  — HTTP status code, or null on connection error
         error    str|null  — error message on failure, null on success
-    wayback_url  str|null  — closest Wayback Machine snapshot URL for dead
-                             articles; null if no snapshot exists or URL is alive
+    wayback_url  str|null  — closest Wayback Machine snapshot URL for articles
+                             not confirmed alive; null if none exists or alive
 
 Resume behaviour
 ----------------
 If <year>.json already exists, months already present in the file are skipped.
+Only finished months are fetched, so a stored month is complete.
 Progress is written after every month, so the script can be safely interrupted
 and re-run without losing work.
 
+Errors
+------
+A failed Algolia or Wayback request stops the run with a traceback. Months
+saved before the failure are kept; re-run to resume.
+
 Rate limiting
 -------------
-A 0.5-second delay is inserted between Algolia requests. On HTTP 429 the
-script backs off exponentially (4 s, 8 s, 16 s) before retrying. The same
-backoff applies to Wayback CDX API requests.
+A 0.5-second delay is inserted between Algolia requests and a 4-second delay
+before each Wayback request (~15 req/min; Wayback publishes no official limit
+and blocks bursts for minutes at a time). On HTTP 429 the script backs off
+(60 s, then 120 s) and gives up on the third 429. Network errors are retried
+the same number of times. Run one process at a time: parallel runs trip the
+Wayback limit.
 
 Requirements
 ------------
-Python 3.9+. No third-party packages — stdlib only (urllib, json, argparse).
+Python 3.10+. No third-party packages — stdlib only (urllib, json, argparse).
 
 Usage
 -----
@@ -67,17 +81,17 @@ Options
 -------
     --year YEAR         Process only this year instead of all years since 2007.
     --output-dir DIR    Directory to write JSON files.
-                        Default: hn_data/ next to this script.
-    --no-check-urls     Skip HTTP HEAD liveness checks (significantly faster).
+                        Default: data/hackernews/ at the repo root.
+    --no-check-urls     Skip URL liveness checks (significantly faster).
                         Wayback lookups are also skipped when this flag is set.
 """
 
 import argparse
 import json
 import os
+import socket
 import sys
 import time
-from calendar import monthrange
 from datetime import datetime, timezone
 
 import urllib.request
@@ -85,12 +99,15 @@ import urllib.error
 import urllib.parse
 
 ALGOLIA_BASE = "https://hn.algolia.com/api/v1/search"
-WAYBACK_CDX  = "https://archive.org/wayback/available"
+WAYBACK_API  = "https://archive.org/wayback/available"
 TOP_N = 50
 START_YEAR = 2007
-OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "hn_data")
+OUTPUT_DIR = os.path.normpath(
+    os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "hackernews")
+)
 REQUEST_DELAY = 0.5   # seconds between Algolia requests (be a good citizen)
-URL_TIMEOUT = 10      # seconds for liveness HEAD request
+WAYBACK_DELAY = 4.0   # seconds before each Wayback request: stays under the ~15 req/min community-reported limit
+URL_TIMEOUT = 10      # seconds for the liveness request
 
 
 # ---------------------------------------------------------------------------
@@ -98,39 +115,41 @@ URL_TIMEOUT = 10      # seconds for liveness HEAD request
 # ---------------------------------------------------------------------------
 
 def _get_json(url: str, retries: int = 3) -> dict:
-    """GET a URL and return parsed JSON. Retries on transient errors."""
+    """GET a URL and return parsed JSON. Retries 429s and network errors, then raises."""
+    req = urllib.request.Request(url, headers={"User-Agent": "hn-archiver/1.0"})
     for attempt in range(retries):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "hn-archiver/1.0"})
             with urllib.request.urlopen(req, timeout=15) as resp:
                 return json.loads(resp.read().decode())
         except urllib.error.HTTPError as e:
-            if e.code == 429:
-                wait = 2 ** (attempt + 2)
-                print(f"  [rate-limit] sleeping {wait}s ...", file=sys.stderr)
-                time.sleep(wait)
-            else:
+            if e.code != 429 or attempt == retries - 1:
                 raise
-        except Exception as e:
+            wait = 60 * 2 ** attempt
+            print(f"  [rate-limit] sleeping {wait}s ...", file=sys.stderr)
+        except (urllib.error.URLError, TimeoutError):
             if attempt == retries - 1:
                 raise
-            time.sleep(2 ** attempt)
-    return {}
+            wait = 2 ** attempt
+        time.sleep(wait)
+    raise ValueError(f"retries must be >= 1, got {retries}")
 
 
 def check_url(url: str) -> dict:
     """
     Return a dict with:
-        alive  (bool)   — True if the server responded with 2xx or 3xx
+        alive  (bool|None) — True below 400, False if gone, None if unknown
         status (int|None)
         error  (str|None)
+
+    Only 404/410 and an unresolvable domain count as gone: blocks, rate limits,
+    server errors and timeouts say nothing about whether the article still exists.
     """
     if not url:
-        return {"alive": False, "status": None, "error": "no url"}
+        return {"alive": None, "status": None, "error": "no url"}
     try:
+        # GET rather than HEAD: many servers reject or block HEAD. The body is never read.
         req = urllib.request.Request(
             url,
-            method="HEAD",
             headers={
                 "User-Agent": (
                     "Mozilla/5.0 (compatible; hn-archiver/1.0; "
@@ -141,32 +160,32 @@ def check_url(url: str) -> dict:
         with urllib.request.urlopen(req, timeout=URL_TIMEOUT) as resp:
             return {"alive": True, "status": resp.status, "error": None}
     except urllib.error.HTTPError as e:
-        alive = e.code < 400
+        alive = True if e.code < 400 else False if e.code in (404, 410) else None
         return {"alive": alive, "status": e.code, "error": None}
     except urllib.error.URLError as e:
-        return {"alive": False, "status": None, "error": str(e.reason)}
+        # EAI_NONAME: the domain does not exist. Other DNS errors (e.g. EAI_AGAIN when offline) are unknown.
+        gone = isinstance(e.reason, socket.gaierror) and e.reason.errno == socket.EAI_NONAME
+        return {"alive": False if gone else None, "status": None, "error": str(e.reason)}
     except Exception as e:
-        return {"alive": False, "status": None, "error": str(e)}
+        return {"alive": None, "status": None, "error": str(e)}
 
 
 def wayback_snapshot(url: str) -> str | None:
     """
     Query the Wayback Machine Availability API for the closest snapshot of url.
-    Returns the snapshot URL string, or None if no snapshot exists or the
-    request fails.
+    Returns the snapshot URL string, or None if no snapshot exists.
+    Request failures raise.
 
     API docs: https://archive.org/help/wayback_api.php
     """
     if not url:
         return None
-    try:
-        params = urllib.parse.urlencode({"url": url})
-        data = _get_json(f"{WAYBACK_CDX}?{params}")
-        snapshot = data.get("archived_snapshots", {}).get("closest", {})
-        if snapshot.get("available") and snapshot.get("url"):
-            return snapshot["url"]
-    except Exception:
-        pass
+    params = urllib.parse.urlencode({"url": url})
+    time.sleep(WAYBACK_DELAY)
+    data = _get_json(f"{WAYBACK_API}?{params}")
+    snapshot = data.get("archived_snapshots", {}).get("closest", {})
+    if snapshot.get("available") and snapshot.get("url"):
+        return snapshot["url"]
     return None
 
 
@@ -179,11 +198,9 @@ def fetch_top_for_month(year: int, month: int, n: int = TOP_N) -> list[dict]:
     Return the top-N HN stories (by points) for the given year/month.
     Makes paginated requests until we have at least n results or exhaust pages.
     """
-    _, last_day = monthrange(year, month)
     t_start = int(datetime(year, month, 1, tzinfo=timezone.utc).timestamp())
-    t_end = int(
-        datetime(year, month, last_day, 23, 59, 59, tzinfo=timezone.utc).timestamp()
-    )
+    next_year, next_month = (year + 1, 1) if month == 12 else (year, month + 1)
+    t_end = int(datetime(next_year, next_month, 1, tzinfo=timezone.utc).timestamp())
 
     collected: list[dict] = []
     page = 0
@@ -192,7 +209,7 @@ def fetch_top_for_month(year: int, month: int, n: int = TOP_N) -> list[dict]:
         params = urllib.parse.urlencode(
             {
                 "tags": "story",
-                "numericFilters": f"created_at_i>{t_start},created_at_i<{t_end}",
+                "numericFilters": f"created_at_i>={t_start},created_at_i<{t_end}",
                 "hitsPerPage": min(n - len(collected), 50),
                 "page": page,
             }
@@ -239,8 +256,7 @@ def fetch_top_for_month(year: int, month: int, n: int = TOP_N) -> list[dict]:
 # ---------------------------------------------------------------------------
 
 def process_year(year: int, check_urls: bool, output_dir: str) -> None:
-    current_year = datetime.now(tz=timezone.utc).year
-    current_month = datetime.now(tz=timezone.utc).month
+    now = datetime.now(tz=timezone.utc)
 
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, f"{year}.json")
@@ -254,8 +270,8 @@ def process_year(year: int, check_urls: bool, output_dir: str) -> None:
 
     months = range(1, 13)
     for month in months:
-        # Don't fetch future months
-        if year == current_year and month > current_month:
+        # Only finished months: a stored month is skipped on re-runs, so it must be complete
+        if (year, month) >= (now.year, now.month):
             break
 
         month_key = f"{year}-{month:02d}"
@@ -266,12 +282,8 @@ def process_year(year: int, check_urls: bool, output_dir: str) -> None:
         month_name = datetime(year, month, 1).strftime("%B")
         print(f"  Fetching {month_name} {year} ...", end=" ", flush=True)
 
-        try:
-            articles = fetch_top_for_month(year, month)
-            print(f"{len(articles)} articles", flush=True)
-        except Exception as e:
-            print(f"ERROR: {e}", file=sys.stderr)
-            articles = []
+        articles = fetch_top_for_month(year, month)
+        print(f"{len(articles)} articles", flush=True)
 
         if check_urls:
             for i, article in enumerate(articles, 1):
@@ -280,17 +292,17 @@ def process_year(year: int, check_urls: bool, output_dir: str) -> None:
                     liveness = check_url(url)
                     article["liveness"] = liveness
 
-                    if not liveness["alive"]:
-                        article["wayback_url"] = wayback_snapshot(url)
-                    else:
+                    if liveness["alive"]:
                         article["wayback_url"] = None
+                    else:
+                        article["wayback_url"] = wayback_snapshot(url)
 
                     status_str = (
                         f"HTTP {liveness['status']}"
                         if liveness["status"]
                         else liveness.get("error", "?")
                     )
-                    alive_str = "alive" if liveness["alive"] else "dead"
+                    alive_str = {True: "alive", False: "dead", None: "unknown"}[liveness["alive"]]
                     wayback_str = f" -> {article['wayback_url']}" if article.get("wayback_url") else ""
                     print(
                         f"    [{i:02d}/{len(articles)}] {alive_str} ({status_str}){wayback_str} {url[:60]}",
