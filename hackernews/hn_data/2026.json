@@ -1,0 +1,5114 @@
+{
+  "2026-01": [
+    {
+      "rank": 1,
+      "objectID": "46579864",
+      "title": "The struggle of resizing windows on macOS Tahoe",
+      "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+      "points": 2752,
+      "author": "happosai",
+      "created_at": "2026-01-11T20:47:55Z",
+      "num_comments": 1207,
+      "hn_link": "https://news.ycombinator.com/item?id=46579864",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 2,
+      "objectID": "46541892",
+      "title": "Bose has released API docs and opened the API for its EoL SoundTouch speakers",
+      "url": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
+      "points": 2532,
+      "author": "rayrey",
+      "created_at": "2026-01-08T15:07:57Z",
+      "num_comments": 396,
+      "hn_link": "https://news.ycombinator.com/item?id=46541892",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 3,
+      "objectID": "46497712",
+      "title": "It's hard to justify Tahoe icons",
+      "url": "https://tonsky.me/blog/tahoe-icons/",
+      "points": 2487,
+      "author": "lylejantzi3rd",
+      "created_at": "2026-01-05T11:51:42Z",
+      "num_comments": 951,
+      "hn_link": "https://news.ycombinator.com/item?id=46497712",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 4,
+      "objectID": "46795864",
+      "title": "Microsoft forced me to switch to Linux",
+      "url": "https://www.himthe.dev/blog/microsoft-to-linux",
+      "points": 1871,
+      "author": "bobsterlobster",
+      "created_at": "2026-01-28T14:28:21Z",
+      "num_comments": 1503,
+      "hn_link": "https://news.ycombinator.com/item?id=46795864",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 5,
+      "objectID": "46829147",
+      "title": "Antirender: remove the glossy shine on architectural renderings",
+      "url": "https://antirender.com/",
+      "points": 1844,
+      "author": "iambateman",
+      "created_at": "2026-01-30T20:05:24Z",
+      "num_comments": 453,
+      "hn_link": "https://news.ycombinator.com/item?id=46829147",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 6,
+      "objectID": "46473348",
+      "title": "Trump says Venezuela’s Maduro captured after strikes",
+      "url": "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+      "points": 1771,
+      "author": "jumpocelot",
+      "created_at": "2026-01-03T06:35:21Z",
+      "num_comments": 4689,
+      "hn_link": "https://news.ycombinator.com/item?id=46473348",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 7,
+      "objectID": "46488819",
+      "title": "Lessons from 14 years at Google",
+      "url": "https://addyosmani.com/blog/21-lessons/",
+      "points": 1678,
+      "author": "cdrnsf",
+      "created_at": "2026-01-04T15:23:54Z",
+      "num_comments": 687,
+      "hn_link": "https://news.ycombinator.com/item?id=46488819",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 8,
+      "objectID": "46820360",
+      "title": "Moltbook",
+      "url": "https://www.moltbook.com/",
+      "points": 1652,
+      "author": "teej",
+      "created_at": "2026-01-30T03:55:34Z",
+      "num_comments": 5,
+      "hn_link": "https://news.ycombinator.com/item?id=46820360",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 9,
+      "objectID": "46514677",
+      "title": "Vietnam bans unskippable ads",
+      "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
+      "points": 1580,
+      "author": "hoherd",
+      "created_at": "2026-01-06T16:45:42Z",
+      "num_comments": 813,
+      "hn_link": "https://news.ycombinator.com/item?id=46514677",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 10,
+      "objectID": "46482345",
+      "title": "Total monthly number of StackOverflow questions over time",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
+      "points": 1550,
+      "author": "maartin0",
+      "created_at": "2026-01-03T22:23:34Z",
+      "num_comments": 999,
+      "hn_link": "https://news.ycombinator.com/item?id=46482345",
+      "liveness": {
+        "alive": false,
+        "status": 403,
+        "error": null
+      },
+      "wayback_url": "http://web.archive.org/web/20260523032438/https://data.stackexchange.com/stackoverflow/query/1926661"
+    },
+    {
+      "rank": 11,
+      "objectID": "46779809",
+      "title": "TikTok users can't upload anti-ICE videos. The company blames tech issues",
+      "url": "https://www.cnn.com/2026/01/26/tech/tiktok-ice-censorship-glitch-cec",
+      "points": 1495,
+      "author": "kotaKat",
+      "created_at": "2026-01-27T13:44:24Z",
+      "num_comments": 1003,
+      "hn_link": "https://news.ycombinator.com/item?id=46779809",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 12,
+      "objectID": "46756117",
+      "title": "ICE using Palantir tool that feeds on Medicaid data",
+      "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+      "points": 1475,
+      "author": "JKCalhoun",
+      "created_at": "2026-01-25T17:36:19Z",
+      "num_comments": 969,
+      "hn_link": "https://news.ycombinator.com/item?id=46756117",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 13,
+      "objectID": "46527950",
+      "title": "Creators of Tailwind laid off 75% of their engineering team",
+      "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
+      "points": 1457,
+      "author": "kevlened",
+      "created_at": "2026-01-07T16:02:19Z",
+      "num_comments": 840,
+      "hn_link": "https://news.ycombinator.com/item?id=46527950",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 14,
+      "objectID": "46657122",
+      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "url": "https://alexharri.com/blog/ascii-rendering",
+      "points": 1353,
+      "author": "alexharri",
+      "created_at": "2026-01-17T11:15:26Z",
+      "num_comments": 149,
+      "hn_link": "https://news.ycombinator.com/item?id=46657122",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 15,
+      "objectID": "46721802",
+      "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+      "url": "https://cannoneyed.com/isometric-nyc/",
+      "points": 1325,
+      "author": "cannoneyed",
+      "created_at": "2026-01-22T16:52:35Z",
+      "num_comments": 241,
+      "hn_link": "https://news.ycombinator.com/item?id=46721802",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 16,
+      "objectID": "46593022",
+      "title": "Cowork: Claude Code for the rest of your work",
+      "url": "https://claude.com/blog/cowork-research-preview",
+      "points": 1298,
+      "author": "adocomplete",
+      "created_at": "2026-01-12T19:27:19Z",
+      "num_comments": 565,
+      "hn_link": "https://news.ycombinator.com/item?id=46593022",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 17,
+      "objectID": "46574276",
+      "title": "Don't fall into the anti-AI hype",
+      "url": "https://antirez.com/news/158",
+      "points": 1296,
+      "author": "todsacerdoti",
+      "created_at": "2026-01-11T10:26:18Z",
+      "num_comments": 1631,
+      "hn_link": "https://news.ycombinator.com/item?id=46574276",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 18,
+      "objectID": "46509211",
+      "title": "enclose.horse",
+      "url": "https://enclose.horse/",
+      "points": 1217,
+      "author": "DavidSJ",
+      "created_at": "2026-01-06T06:01:57Z",
+      "num_comments": 233,
+      "hn_link": "https://news.ycombinator.com/item?id=46509211",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 19,
+      "objectID": "46457770",
+      "title": "Linux is good now",
+      "url": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
+      "points": 1194,
+      "author": "Vinnl",
+      "created_at": "2026-01-01T20:35:11Z",
+      "num_comments": 1000,
+      "hn_link": "https://news.ycombinator.com/item?id=46457770",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 20,
+      "objectID": "46529237",
+      "title": "Eat Real Food",
+      "url": "https://realfood.gov",
+      "points": 1163,
+      "author": "atestu",
+      "created_at": "2026-01-07T17:22:09Z",
+      "num_comments": 1638,
+      "hn_link": "https://news.ycombinator.com/item?id=46529237",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 21,
+      "objectID": "46727587",
+      "title": "Bugs Apple loves",
+      "url": "https://www.bugsappleloves.com",
+      "points": 1122,
+      "author": "nhod",
+      "created_at": "2026-01-23T02:24:12Z",
+      "num_comments": 537,
+      "hn_link": "https://news.ycombinator.com/item?id=46727587",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 22,
+      "objectID": "46801419",
+      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+      "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
+      "points": 1116,
+      "author": "pier25",
+      "created_at": "2026-01-28T20:59:30Z",
+      "num_comments": 917,
+      "hn_link": "https://news.ycombinator.com/item?id=46801419",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 23,
+      "objectID": "46468600",
+      "title": "Publish on your own site, syndicate elsewhere",
+      "url": "https://indieweb.org/POSSE#",
+      "points": 1078,
+      "author": "47thpresident",
+      "created_at": "2026-01-02T19:48:25Z",
+      "num_comments": 248,
+      "hn_link": "https://news.ycombinator.com/item?id=46468600",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 24,
+      "objectID": "46602102",
+      "title": "Scott Adams has died",
+      "url": "https://www.youtube.com/watch?v=Rs_JrOIo3SE",
+      "points": 1069,
+      "author": "ekianjo",
+      "created_at": "2026-01-13T15:18:43Z",
+      "num_comments": 1794,
+      "hn_link": "https://news.ycombinator.com/item?id=46602102",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 25,
+      "objectID": "46531068",
+      "title": "US will ban Wall Street investors from buying single-family homes",
+      "url": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/",
+      "points": 1052,
+      "author": "kpw94",
+      "created_at": "2026-01-07T19:13:19Z",
+      "num_comments": 1140,
+      "hn_link": "https://news.ycombinator.com/item?id=46531068",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 26,
+      "objectID": "46649142",
+      "title": "STFU",
+      "url": "https://github.com/Pankajtanwarbanna/stfu",
+      "points": 1043,
+      "author": "tanelpoder",
+      "created_at": "2026-01-16T17:32:40Z",
+      "num_comments": 601,
+      "hn_link": "https://news.ycombinator.com/item?id=46649142",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 27,
+      "objectID": "46735545",
+      "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
+      "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
+      "points": 1040,
+      "author": "bookofjoe",
+      "created_at": "2026-01-23T17:58:56Z",
+      "num_comments": 662,
+      "hn_link": "https://news.ycombinator.com/item?id=46735545",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 28,
+      "objectID": "46589675",
+      "title": "Apple picks Gemini to power Siri",
+      "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+      "points": 1038,
+      "author": "stygiansonic",
+      "created_at": "2026-01-12T15:22:21Z",
+      "num_comments": 651,
+      "hn_link": "https://news.ycombinator.com/item?id=46589675",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 29,
+      "objectID": "46646645",
+      "title": "Cloudflare acquires Astro",
+      "url": "https://astro.build/blog/joining-cloudflare/",
+      "points": 960,
+      "author": "todotask2",
+      "created_at": "2026-01-16T14:25:54Z",
+      "num_comments": 391,
+      "hn_link": "https://news.ycombinator.com/item?id=46646645",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 30,
+      "objectID": "46783254",
+      "title": "FBI is investigating Minnesota Signal chats tracking ICE",
+      "url": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
+      "points": 955,
+      "author": "duxup",
+      "created_at": "2026-01-27T17:32:05Z",
+      "num_comments": 1635,
+      "hn_link": "https://news.ycombinator.com/item?id=46783254",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 31,
+      "objectID": "46808251",
+      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+      "url": "https://blog.ncase.me/on-depression/",
+      "points": 954,
+      "author": "mijailt",
+      "created_at": "2026-01-29T10:35:00Z",
+      "num_comments": 641,
+      "hn_link": "https://news.ycombinator.com/item?id=46808251",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 32,
+      "objectID": "46618714",
+      "title": "Ask HN: Share your personal website",
+      "url": null,
+      "points": 950,
+      "author": "susam",
+      "created_at": "2026-01-14T17:07:42Z",
+      "num_comments": 2387,
+      "hn_link": "https://news.ycombinator.com/item?id=46618714",
+      "liveness": {
+        "alive": null,
+        "status": null,
+        "error": "ask-hn/no-url"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 33,
+      "objectID": "46605490",
+      "title": "AI generated music barred from Bandcamp",
+      "url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
+      "points": 949,
+      "author": "cdrnsf",
+      "created_at": "2026-01-13T18:31:50Z",
+      "num_comments": 726,
+      "hn_link": "https://news.ycombinator.com/item?id=46605490",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 34,
+      "objectID": "46717556",
+      "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
+      "url": "https://curl.se/.well-known/security.txt",
+      "points": 949,
+      "author": "latexr",
+      "created_at": "2026-01-22T10:48:27Z",
+      "num_comments": 617,
+      "hn_link": "https://news.ycombinator.com/item?id=46717556",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 35,
+      "objectID": "46616745",
+      "title": "FBI raids Washington Post reporter's home",
+      "url": "https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson",
+      "points": 946,
+      "author": "echelon_musk",
+      "created_at": "2026-01-14T14:57:30Z",
+      "num_comments": 582,
+      "hn_link": "https://news.ycombinator.com/item?id=46616745",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 36,
+      "objectID": "46504963",
+      "title": "There were BGP anomalies during the Venezuela blackout",
+      "url": "https://loworbitsecurity.com/radar/radar16/",
+      "points": 941,
+      "author": "illithid0",
+      "created_at": "2026-01-05T21:05:50Z",
+      "num_comments": 449,
+      "hn_link": "https://news.ycombinator.com/item?id=46504963",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 37,
+      "objectID": "46720395",
+      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
+      "url": "https://gptzero.me/news/neurips/",
+      "points": 937,
+      "author": "segmenta",
+      "created_at": "2026-01-22T15:20:48Z",
+      "num_comments": 507,
+      "hn_link": "https://news.ycombinator.com/item?id=46720395",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 38,
+      "objectID": "46582420",
+      "title": "Statement from Jerome Powell",
+      "url": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
+      "points": 924,
+      "author": "0xedb",
+      "created_at": "2026-01-12T01:02:48Z",
+      "num_comments": 808,
+      "hn_link": "https://news.ycombinator.com/item?id=46582420",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 39,
+      "objectID": "46771564",
+      "title": "A few random notes from Claude coding quite a bit last few weeks",
+      "url": "https://twitter.com/karpathy/status/2015883857489522876",
+      "points": 913,
+      "author": "bigwheels",
+      "created_at": "2026-01-26T21:09:19Z",
+      "num_comments": 848,
+      "hn_link": "https://news.ycombinator.com/item?id=46771564",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 40,
+      "objectID": "46760329",
+      "title": "Over 36,500 killed in Iran's deadliest massacre, documents reveal",
+      "url": "https://www.iranintl.com/en/202601255198",
+      "points": 908,
+      "author": "mhb",
+      "created_at": "2026-01-26T00:40:01Z",
+      "num_comments": 728,
+      "hn_link": "https://news.ycombinator.com/item?id=46760329",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 41,
+      "objectID": "46767668",
+      "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
+      "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
+      "points": 900,
+      "author": "bwb",
+      "created_at": "2026-01-26T16:27:46Z",
+      "num_comments": 780,
+      "hn_link": "https://news.ycombinator.com/item?id=46767668",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 42,
+      "objectID": "46838597",
+      "title": "Mobile carriers can get your GPS location",
+      "url": "https://an.dywa.ng/carrier-gnss.html",
+      "points": 893,
+      "author": "cbeuw",
+      "created_at": "2026-01-31T17:21:34Z",
+      "num_comments": 582,
+      "hn_link": "https://news.ycombinator.com/item?id=46838597",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 43,
+      "objectID": "46515696",
+      "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+      "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+      "points": 879,
+      "author": "tbassetto",
+      "created_at": "2026-01-06T17:45:37Z",
+      "num_comments": 1353,
+      "hn_link": "https://news.ycombinator.com/item?id=46515696",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 44,
+      "objectID": "46622328",
+      "title": "Claude Cowork exfiltrates files",
+      "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+      "points": 870,
+      "author": "takira",
+      "created_at": "2026-01-14T20:12:25Z",
+      "num_comments": 399,
+      "hn_link": "https://news.ycombinator.com/item?id=46622328",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 45,
+      "objectID": "46765460",
+      "title": "After two years of vibecoding, I'm back to writing by hand",
+      "url": "https://atmoio.substack.com/p/after-two-years-of-vibecoding-im",
+      "points": 865,
+      "author": "mobitar",
+      "created_at": "2026-01-26T13:36:22Z",
+      "num_comments": 634,
+      "hn_link": "https://news.ycombinator.com/item?id=46765460",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 46,
+      "objectID": "46574707",
+      "title": "I dumped Windows 11 for Linux, and you should too",
+      "url": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
+      "points": 854,
+      "author": "smurda",
+      "created_at": "2026-01-11T11:31:22Z",
+      "num_comments": 800,
+      "hn_link": "https://news.ycombinator.com/item?id=46574707",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 47,
+      "objectID": "46663338",
+      "title": "If you put Apple icons in reverse it looks like someone getting good at design",
+      "url": "https://mastodon.social/@heliographe_studio/115890819509545391",
+      "points": 854,
+      "author": "lateforwork",
+      "created_at": "2026-01-17T23:47:16Z",
+      "num_comments": 321,
+      "hn_link": "https://news.ycombinator.com/item?id=46663338",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 48,
+      "objectID": "46471199",
+      "title": "2026 will be my year of the Linux desktop",
+      "url": "https://xeiaso.net/notes/2026/year-linux-desktop/",
+      "points": 835,
+      "author": "todsacerdoti",
+      "created_at": "2026-01-03T00:15:47Z",
+      "num_comments": 639,
+      "hn_link": "https://news.ycombinator.com/item?id=46471199",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 49,
+      "objectID": "46545620",
+      "title": "How to code Claude Code in 200 lines of code",
+      "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+      "points": 816,
+      "author": "nutellalover",
+      "created_at": "2026-01-08T19:54:26Z",
+      "num_comments": 239,
+      "hn_link": "https://news.ycombinator.com/item?id=46545620",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 50,
+      "objectID": "46757067",
+      "title": "First, make me care",
+      "url": "https://gwern.net/blog/2026/make-me-care",
+      "points": 813,
+      "author": "andsoitis",
+      "created_at": "2026-01-25T19:03:40Z",
+      "num_comments": 249,
+      "hn_link": "https://news.ycombinator.com/item?id=46757067",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    }
+  ],
+  "2026-02": [
+    {
+      "rank": 1,
+      "objectID": "47173121",
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "points": 2920,
+      "author": "qwertox",
+      "created_at": "2026-02-26T22:42:47Z",
+      "num_comments": 1579,
+      "hn_link": "https://news.ycombinator.com/item?id=47173121",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 2,
+      "objectID": "47188473",
+      "title": "We Will Not Be Divided",
+      "url": "https://notdivided.org",
+      "points": 2645,
+      "author": "BloondAndDoom",
+      "created_at": "2026-02-28T00:54:53Z",
+      "num_comments": 841,
+      "hn_link": "https://news.ycombinator.com/item?id=47188473",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 3,
+      "objectID": "46902223",
+      "title": "Claude Opus 4.6",
+      "url": "https://www.anthropic.com/news/claude-opus-4-6",
+      "points": 2346,
+      "author": "HellsMaddy",
+      "created_at": "2026-02-05T17:38:53Z",
+      "num_comments": 1031,
+      "hn_link": "https://news.ycombinator.com/item?id=46902223",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 4,
+      "objectID": "46990729",
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "points": 2346,
+      "author": "scottshambaugh",
+      "created_at": "2026-02-12T16:23:24Z",
+      "num_comments": 951,
+      "hn_link": "https://news.ycombinator.com/item?id=46990729",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 5,
+      "objectID": "47091419",
+      "title": "Keep Android Open",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "points": 2258,
+      "author": "LorenDB",
+      "created_at": "2026-02-20T17:58:51Z",
+      "num_comments": 737,
+      "hn_link": "https://news.ycombinator.com/item?id=47091419",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 6,
+      "objectID": "47136179",
+      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+      "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+      "points": 2084,
+      "author": "Qem",
+      "created_at": "2026-02-24T12:16:45Z",
+      "num_comments": 997,
+      "hn_link": "https://news.ycombinator.com/item?id=47136179",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 7,
+      "objectID": "46945663",
+      "title": "Discord will require a face scan or ID for full access next month",
+      "url": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+      "points": 2046,
+      "author": "x01",
+      "created_at": "2026-02-09T14:37:38Z",
+      "num_comments": 2041,
+      "hn_link": "https://news.ycombinator.com/item?id=46945663",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 8,
+      "objectID": "47193478",
+      "title": "OpenAI – How to delete your account",
+      "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+      "points": 1929,
+      "author": "carlosrg",
+      "created_at": "2026-02-28T10:41:55Z",
+      "num_comments": 362,
+      "hn_link": "https://news.ycombinator.com/item?id=47193478",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 9,
+      "objectID": "47122715",
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "url": "https://spectrum.ieee.org/age-verification",
+      "points": 1670,
+      "author": "oldnetguy",
+      "created_at": "2026-02-23T14:22:39Z",
+      "num_comments": 1301,
+      "hn_link": "https://news.ycombinator.com/item?id=47122715",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 10,
+      "objectID": "47003064",
+      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
+      "url": "https://ios-countdown.win/",
+      "points": 1627,
+      "author": "ozzyphantom",
+      "created_at": "2026-02-13T14:21:01Z",
+      "num_comments": 793,
+      "hn_link": "https://news.ycombinator.com/item?id=47003064",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 11,
+      "objectID": "47113728",
+      "title": "I built Timeframe, our family e-paper dashboard",
+      "url": "https://hawksley.org/2026/02/17/timeframe.html",
+      "points": 1616,
+      "author": "saeedesmaili",
+      "created_at": "2026-02-22T19:12:31Z",
+      "num_comments": 369,
+      "hn_link": "https://news.ycombinator.com/item?id=47113728",
+      "liveness": {
+        "alive": false,
+        "status": null,
+        "error": "_ssl.c:1063: The handshake operation timed out"
+      },
+      "wayback_url": "http://web.archive.org/web/20260606130747/https://hawksley.org/2026/02/17/timeframe.html"
+    },
+    {
+      "rank": 12,
+      "objectID": "46902638",
+      "title": "GPT-5.3-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "points": 1530,
+      "author": "meetpateltech",
+      "created_at": "2026-02-05T18:08:08Z",
+      "num_comments": 605,
+      "hn_link": "https://news.ycombinator.com/item?id=46902638",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 13,
+      "objectID": "47089213",
+      "title": "Trump's global tariffs struck down by US Supreme Court",
+      "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
+      "points": 1527,
+      "author": "blackguardx",
+      "created_at": "2026-02-20T15:27:38Z",
+      "num_comments": 1291,
+      "hn_link": "https://news.ycombinator.com/item?id=47089213",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 14,
+      "objectID": "47031580",
+      "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+      "url": "https://mastodon.world/@knowmadd/116072773118828295",
+      "points": 1516,
+      "author": "novemp",
+      "created_at": "2026-02-16T06:31:48Z",
+      "num_comments": 949,
+      "hn_link": "https://news.ycombinator.com/item?id=47031580",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 15,
+      "objectID": "47091748",
+      "title": "Facebook is cooked",
+      "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "points": 1513,
+      "author": "npilk",
+      "created_at": "2026-02-20T18:25:07Z",
+      "num_comments": 847,
+      "hn_link": "https://news.ycombinator.com/item?id=47091748",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 16,
+      "objectID": "47098245",
+      "title": "I verified my LinkedIn identity. Here's what I handed over",
+      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "points": 1483,
+      "author": "ColinWright",
+      "created_at": "2026-02-21T07:06:18Z",
+      "num_comments": 490,
+      "hn_link": "https://news.ycombinator.com/item?id=47098245",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 17,
+      "objectID": "47028013",
+      "title": "I’m joining OpenAI",
+      "url": "https://steipete.me/posts/2026/openclaw",
+      "points": 1449,
+      "author": "mfiguiere",
+      "created_at": "2026-02-15T21:54:15Z",
+      "num_comments": 1131,
+      "hn_link": "https://news.ycombinator.com/item?id=47028013",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 18,
+      "objectID": "47189650",
+      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "url": "https://twitter.com/sama/status/2027578652477821175",
+      "points": 1407,
+      "author": "eoskx",
+      "created_at": "2026-02-28T02:59:02Z",
+      "num_comments": 648,
+      "hn_link": "https://news.ycombinator.com/item?id=47189650",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 19,
+      "objectID": "46962996",
+      "title": "The Singularity will occur on a Tuesday",
+      "url": "https://campedersen.com/singularity",
+      "points": 1381,
+      "author": "ecto",
+      "created_at": "2026-02-10T17:04:31Z",
+      "num_comments": 756,
+      "hn_link": "https://news.ycombinator.com/item?id=46962996",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 20,
+      "objectID": "47186677",
+      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+      "url": "https://twitter.com/secwar/status/2027507717469049070",
+      "points": 1362,
+      "author": "jacobedawson",
+      "created_at": "2026-02-27T22:31:18Z",
+      "num_comments": 1085,
+      "hn_link": "https://news.ycombinator.com/item?id=47186677",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 21,
+      "objectID": "47050488",
+      "title": "Claude Sonnet 4.6",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "points": 1346,
+      "author": "adocomplete",
+      "created_at": "2026-02-17T17:48:52Z",
+      "num_comments": 1226,
+      "hn_link": "https://news.ycombinator.com/item?id=47050488",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 22,
+      "objectID": "46881264",
+      "title": "I miss thinking hard",
+      "url": "https://www.jernesto.com/articles/thinking_hard",
+      "points": 1310,
+      "author": "jernestomg",
+      "created_at": "2026-02-04T03:54:11Z",
+      "num_comments": 718,
+      "hn_link": "https://news.ycombinator.com/item?id=46881264",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 23,
+      "objectID": "47156925",
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "points": 1291,
+      "author": "hiisthisthingon",
+      "created_at": "2026-02-25T19:54:14Z",
+      "num_comments": 304,
+      "hn_link": "https://news.ycombinator.com/item?id=47156925",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 24,
+      "objectID": "47120899",
+      "title": "Ladybird adopts Rust, with help from AI",
+      "url": "https://ladybird.org/posts/adopting-rust/",
+      "points": 1274,
+      "author": "adius",
+      "created_at": "2026-02-23T11:29:22Z",
+      "num_comments": 698,
+      "hn_link": "https://news.ycombinator.com/item?id=47120899",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 25,
+      "objectID": "46896146",
+      "title": "Don't rent the cloud, own instead",
+      "url": "https://blog.comma.ai/datacenter/",
+      "points": 1222,
+      "author": "Torq_boi",
+      "created_at": "2026-02-05T05:50:01Z",
+      "num_comments": 497,
+      "hn_link": "https://news.ycombinator.com/item?id=46896146",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 26,
+      "objectID": "47025378",
+      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+      "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+      "points": 1210,
+      "author": "giuliomagnifico",
+      "created_at": "2026-02-15T17:10:18Z",
+      "num_comments": 851,
+      "hn_link": "https://news.ycombinator.com/item?id=47025378",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 27,
+      "objectID": "47191232",
+      "title": "The United States and Israel have launched a major attack on Iran",
+      "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "points": 1207,
+      "author": "lavp",
+      "created_at": "2026-02-28T06:34:07Z",
+      "num_comments": 2651,
+      "hn_link": "https://news.ycombinator.com/item?id=47191232",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 28,
+      "objectID": "47045612",
+      "title": "GrapheneOS – Break Free from Google and Apple",
+      "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+      "points": 1182,
+      "author": "to3k",
+      "created_at": "2026-02-17T10:02:36Z",
+      "num_comments": 925,
+      "hn_link": "https://news.ycombinator.com/item?id=47045612",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 29,
+      "objectID": "46911901",
+      "title": "I now assume that all ads on Apple news are scams",
+      "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
+      "points": 1178,
+      "author": "cdrnsf",
+      "created_at": "2026-02-06T12:16:43Z",
+      "num_comments": 555,
+      "hn_link": "https://news.ycombinator.com/item?id=46911901",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 30,
+      "objectID": "47016443",
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "points": 1172,
+      "author": "i5heu",
+      "created_at": "2026-02-14T17:36:45Z",
+      "num_comments": 343,
+      "hn_link": "https://news.ycombinator.com/item?id=47016443",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 31,
+      "objectID": "47188697",
+      "title": "Statement on the comments from Secretary of War Pete Hegseth",
+      "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "points": 1170,
+      "author": "surprisetalk",
+      "created_at": "2026-02-28T01:20:10Z",
+      "num_comments": 357,
+      "hn_link": "https://news.ycombinator.com/item?id=47188697",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 32,
+      "objectID": "46914785",
+      "title": "The Waymo World Model",
+      "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
+      "points": 1160,
+      "author": "xnx",
+      "created_at": "2026-02-06T16:20:42Z",
+      "num_comments": 663,
+      "hn_link": "https://news.ycombinator.com/item?id=46914785",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 33,
+      "objectID": "46873294",
+      "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+      "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
+      "points": 1149,
+      "author": "AareyBaba",
+      "created_at": "2026-02-03T16:39:18Z",
+      "num_comments": 598,
+      "hn_link": "https://news.ycombinator.com/item?id=46873294",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 34,
+      "objectID": "47049824",
+      "title": "Thank HN: You helped save 33k lives",
+      "url": null,
+      "points": 1148,
+      "author": "chaseadam17",
+      "created_at": "2026-02-17T17:06:18Z",
+      "num_comments": 112,
+      "hn_link": "https://news.ycombinator.com/item?id=47049824",
+      "liveness": {
+        "alive": null,
+        "status": null,
+        "error": "ask-hn/no-url"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 35,
+      "objectID": "46958399",
+      "title": "Europe's $24T Breakup with Visa and Mastercard Has Begun",
+      "url": "https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/",
+      "points": 1132,
+      "author": "NewCzech",
+      "created_at": "2026-02-10T11:42:14Z",
+      "num_comments": 1030,
+      "hn_link": "https://news.ycombinator.com/item?id=46958399",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 36,
+      "objectID": "46876105",
+      "title": "Data centers in space makes no sense",
+      "url": "https://civai.org/blog/space-data-centers",
+      "points": 1118,
+      "author": "ajyoon",
+      "created_at": "2026-02-03T19:37:30Z",
+      "num_comments": 1346,
+      "hn_link": "https://news.ycombinator.com/item?id=46876105",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 37,
+      "objectID": "47139675",
+      "title": "I'm helping my dog vibe code games",
+      "url": "https://www.calebleak.com/posts/dog-game/",
+      "points": 1106,
+      "author": "cleak",
+      "created_at": "2026-02-24T17:15:17Z",
+      "num_comments": 377,
+      "hn_link": "https://news.ycombinator.com/item?id=47139675",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 38,
+      "objectID": "46978710",
+      "title": "Claude Code is being dumbed down?",
+      "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+      "points": 1085,
+      "author": "WXLCKNO",
+      "created_at": "2026-02-11T18:23:39Z",
+      "num_comments": 701,
+      "hn_link": "https://news.ycombinator.com/item?id=46978710",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 39,
+      "objectID": "46991240",
+      "title": "Gemini 3 Deep Think",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "points": 1081,
+      "author": "tosh",
+      "created_at": "2026-02-12T16:55:50Z",
+      "num_comments": 693,
+      "hn_link": "https://news.ycombinator.com/item?id=46991240",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 40,
+      "objectID": "46930961",
+      "title": "Vouch",
+      "url": "https://github.com/mitchellh/vouch",
+      "points": 1077,
+      "author": "chwtutha",
+      "created_at": "2026-02-08T03:09:28Z",
+      "num_comments": 486,
+      "hn_link": "https://news.ycombinator.com/item?id=46930961",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 41,
+      "objectID": "47190997",
+      "title": "How do I cancel my ChatGPT subscription?",
+      "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "points": 1073,
+      "author": "tobr",
+      "created_at": "2026-02-28T05:55:01Z",
+      "num_comments": 253,
+      "hn_link": "https://news.ycombinator.com/item?id=47190997",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 42,
+      "objectID": "47057829",
+      "title": "15 years later, Microsoft morged my diagram",
+      "url": "https://nvie.com/posts/15-years-later/",
+      "points": 1047,
+      "author": "cheeaun",
+      "created_at": "2026-02-18T06:20:13Z",
+      "num_comments": 398,
+      "hn_link": "https://news.ycombinator.com/item?id=47057829",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 43,
+      "objectID": "46886735",
+      "title": "Voxtral Transcribe 2",
+      "url": "https://mistral.ai/news/voxtral-transcribe-2",
+      "points": 1012,
+      "author": "meetpateltech",
+      "created_at": "2026-02-04T15:08:17Z",
+      "num_comments": 241,
+      "hn_link": "https://news.ycombinator.com/item?id=46886735",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 44,
+      "objectID": "46985151",
+      "title": "Warcraft III Peon Voice Notifications for Claude Code",
+      "url": "https://github.com/tonyyont/peon-ping",
+      "points": 1006,
+      "author": "doppp",
+      "created_at": "2026-02-12T05:18:49Z",
+      "num_comments": 301,
+      "hn_link": "https://news.ycombinator.com/item?id=46985151",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 45,
+      "objectID": "46918612",
+      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+      "url": "https://openciv3.org/",
+      "points": 996,
+      "author": "klaussilveira",
+      "created_at": "2026-02-06T21:51:23Z",
+      "num_comments": 309,
+      "hn_link": "https://news.ycombinator.com/item?id=46918612",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 46,
+      "objectID": "47197505",
+      "title": "The whole thing was a scam",
+      "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+      "points": 993,
+      "author": "guilamu",
+      "created_at": "2026-02-28T16:51:49Z",
+      "num_comments": 323,
+      "hn_link": "https://news.ycombinator.com/item?id=47197505",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 47,
+      "objectID": "46903558",
+      "title": "My AI Adoption Journey",
+      "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+      "points": 984,
+      "author": "anurag",
+      "created_at": "2026-02-05T19:04:40Z",
+      "num_comments": 401,
+      "hn_link": "https://news.ycombinator.com/item?id=46903558",
+      "liveness": {
+        "alive": false,
+        "status": null,
+        "error": "_ssl.c:1063: The handshake operation timed out"
+      },
+      "wayback_url": "http://web.archive.org/web/20260530202117/https://mitchellh.com/writing/my-ai-adoption-journey"
+    },
+    {
+      "rank": 48,
+      "objectID": "47106686",
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "url": "https://boristane.com/blog/how-i-use-claude-code/",
+      "points": 976,
+      "author": "vinhnx",
+      "created_at": "2026-02-22T00:29:05Z",
+      "num_comments": 591,
+      "hn_link": "https://news.ycombinator.com/item?id=47106686",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 49,
+      "objectID": "47074735",
+      "title": "Gemini 3.1 Pro",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "points": 963,
+      "author": "MallocVoidstar",
+      "created_at": "2026-02-19T15:19:57Z",
+      "num_comments": 914,
+      "hn_link": "https://news.ycombinator.com/item?id=47074735",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 50,
+      "objectID": "47020191",
+      "title": "I love the work of the ArchWiki maintainers",
+      "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+      "points": 960,
+      "author": "panic",
+      "created_at": "2026-02-15T01:20:58Z",
+      "num_comments": 172,
+      "hn_link": "https://news.ycombinator.com/item?id=47020191",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    }
+  ],
+  "2026-03": [
+    {
+      "rank": 1,
+      "objectID": "47340079",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "points": 4229,
+      "author": "usefulposter",
+      "created_at": "2026-03-11T19:29:29Z",
+      "num_comments": 1668,
+      "hn_link": "https://news.ycombinator.com/item?id=47340079",
+      "liveness": {
+        "alive": false,
+        "status": 405,
+        "error": null
+      },
+      "wayback_url": "http://web.archive.org/web/20260607120410/https://news.ycombinator.com/newsguidelines.html"
+    },
+    {
+      "rank": 2,
+      "objectID": "47214645",
+      "title": "Motorola announces a partnership with GrapheneOS",
+      "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+      "points": 2358,
+      "author": "km",
+      "created_at": "2026-03-02T06:48:07Z",
+      "num_comments": 884,
+      "hn_link": "https://news.ycombinator.com/item?id=47214645",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 3,
+      "objectID": "47584540",
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "points": 2095,
+      "author": "treexs",
+      "created_at": "2026-03-31T09:00:40Z",
+      "num_comments": 1022,
+      "hn_link": "https://news.ycombinator.com/item?id=47584540",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 4,
+      "objectID": "47324054",
+      "title": "Tony Hoare has died",
+      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "points": 2043,
+      "author": "speckx",
+      "created_at": "2026-03-10T14:50:16Z",
+      "num_comments": 268,
+      "hn_link": "https://news.ycombinator.com/item?id=47324054",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 5,
+      "objectID": "47247645",
+      "title": "MacBook Neo",
+      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "points": 1974,
+      "author": "dm",
+      "created_at": "2026-03-04T14:16:41Z",
+      "num_comments": 2320,
+      "hn_link": "https://news.ycombinator.com/item?id=47247645",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 6,
+      "objectID": "47202708",
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "points": 1936,
+      "author": "tambourine_man",
+      "created_at": "2026-03-01T01:39:26Z",
+      "num_comments": 324,
+      "hn_link": "https://news.ycombinator.com/item?id=47202708",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 7,
+      "objectID": "47582220",
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "points": 1934,
+      "author": "mtud",
+      "created_at": "2026-03-31T02:54:17Z",
+      "num_comments": 807,
+      "hn_link": "https://news.ycombinator.com/item?id=47582220",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 8,
+      "objectID": "47397822",
+      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+      "points": 1606,
+      "author": "defly",
+      "created_at": "2026-03-16T12:00:06Z",
+      "num_comments": 1055,
+      "hn_link": "https://news.ycombinator.com/item?id=47397822",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 9,
+      "objectID": "47570269",
+      "title": "Copilot edited an ad into my PR",
+      "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+      "points": 1606,
+      "author": "pavo-etc",
+      "created_at": "2026-03-30T04:04:31Z",
+      "num_comments": 643,
+      "hn_link": "https://news.ycombinator.com/item?id=47570269",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 10,
+      "objectID": "47357042",
+      "title": "Shall I implement it? No",
+      "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+      "points": 1563,
+      "author": "breton",
+      "created_at": "2026-03-12T21:01:10Z",
+      "num_comments": 564,
+      "hn_link": "https://news.ycombinator.com/item?id=47357042",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 11,
+      "objectID": "47363754",
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
+      "points": 1520,
+      "author": "ricardbejarano",
+      "created_at": "2026-03-13T12:46:10Z",
+      "num_comments": 353,
+      "hn_link": "https://news.ycombinator.com/item?id=47363754",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 12,
+      "objectID": "47438723",
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "points": 1489,
+      "author": "ibraheemdev",
+      "created_at": "2026-03-19T13:05:50Z",
+      "num_comments": 901,
+      "hn_link": "https://news.ycombinator.com/item?id=47438723",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 13,
+      "objectID": "47408703",
+      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+      "points": 1469,
+      "author": "smitec",
+      "created_at": "2026-03-17T04:39:42Z",
+      "num_comments": 345,
+      "hn_link": "https://news.ycombinator.com/item?id=47408703",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 14,
+      "objectID": "47522709",
+      "title": "The EU still wants to scan  your private messages and photos",
+      "url": "https://fightchatcontrol.eu/?foo=bar",
+      "points": 1450,
+      "author": "MrBruh",
+      "created_at": "2026-03-25T20:27:03Z",
+      "num_comments": 393,
+      "hn_link": "https://news.ycombinator.com/item?id=47522709",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 15,
+      "objectID": "47225130",
+      "title": "Meta’s AI smart glasses and data privacy concerns",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "points": 1448,
+      "author": "sandbach",
+      "created_at": "2026-03-02T22:32:35Z",
+      "num_comments": 809,
+      "hn_link": "https://news.ycombinator.com/item?id=47225130",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 16,
+      "objectID": "47350424",
+      "title": "Malus – Clean Room as a Service",
+      "url": "https://malus.sh",
+      "points": 1433,
+      "author": "microflash",
+      "created_at": "2026-03-12T13:42:04Z",
+      "num_comments": 531,
+      "hn_link": "https://news.ycombinator.com/item?id=47350424",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 17,
+      "objectID": "47556729",
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "points": 1404,
+      "author": "bob_theslob646",
+      "created_at": "2026-03-28T17:39:49Z",
+      "num_comments": 255,
+      "hn_link": "https://news.ycombinator.com/item?id=47556729",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 18,
+      "objectID": "47586778",
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "points": 1376,
+      "author": "alex000kim",
+      "created_at": "2026-03-31T13:04:30Z",
+      "num_comments": 578,
+      "hn_link": "https://news.ycombinator.com/item?id=47586778",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 19,
+      "objectID": "47362528",
+      "title": "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act",
+      "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
+      "points": 1358,
+      "author": "shaicoleman",
+      "created_at": "2026-03-13T10:15:56Z",
+      "num_comments": 1052,
+      "hn_link": "https://news.ycombinator.com/item?id=47362528",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 20,
+      "objectID": "47230704",
+      "title": "The Xkcd thing, now interactive",
+      "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+      "points": 1320,
+      "author": "memalign",
+      "created_at": "2026-03-03T10:56:52Z",
+      "num_comments": 158,
+      "hn_link": "https://news.ycombinator.com/item?id=47230704",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 21,
+      "objectID": "47507150",
+      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+      "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+      "points": 1306,
+      "author": "felineflock",
+      "created_at": "2026-03-24T18:34:52Z",
+      "num_comments": 497,
+      "hn_link": "https://news.ycombinator.com/item?id=47507150",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 22,
+      "objectID": "47241551",
+      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+      "points": 1298,
+      "author": "pabs3",
+      "created_at": "2026-03-04T00:58:31Z",
+      "num_comments": 562,
+      "hn_link": "https://news.ycombinator.com/item?id=47241551",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 23,
+      "objectID": "47460525",
+      "title": "OpenCode – Open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "points": 1274,
+      "author": "rbanffy",
+      "created_at": "2026-03-20T21:03:52Z",
+      "num_comments": 618,
+      "hn_link": "https://news.ycombinator.com/item?id=47460525",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 24,
+      "objectID": "47402950",
+      "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
+      "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
+      "points": 1256,
+      "author": "tartoran",
+      "created_at": "2026-03-16T18:38:14Z",
+      "num_comments": 419,
+      "hn_link": "https://news.ycombinator.com/item?id=47402950",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 25,
+      "objectID": "47436950",
+      "title": "Afroman found not liable in defamation case",
+      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+      "points": 1250,
+      "author": "antonymoose",
+      "created_at": "2026-03-19T09:51:56Z",
+      "num_comments": 739,
+      "hn_link": "https://news.ycombinator.com/item?id=47436950",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 26,
+      "objectID": "47367129",
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://claude.com/blog/1m-context-ga",
+      "points": 1220,
+      "author": "meetpateltech",
+      "created_at": "2026-03-13T17:19:01Z",
+      "num_comments": 519,
+      "hn_link": "https://news.ycombinator.com/item?id=47367129",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 27,
+      "objectID": "47442690",
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "points": 1196,
+      "author": "0xedb",
+      "created_at": "2026-03-19T17:16:04Z",
+      "num_comments": 1262,
+      "hn_link": "https://news.ycombinator.com/item?id=47442690",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 28,
+      "objectID": "47275088",
+      "title": "Global warming has accelerated significantly",
+      "url": "https://www.researchsquare.com/article/rs-6079807/v1",
+      "points": 1196,
+      "author": "morsch",
+      "created_at": "2026-03-06T14:10:03Z",
+      "num_comments": 1210,
+      "hn_link": "https://news.ycombinator.com/item?id=47275088",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 29,
+      "objectID": "47216047",
+      "title": "“Microslop” filtered in the official Microsoft Copilot Discord server",
+      "url": "https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/",
+      "points": 1182,
+      "author": "robtherobber",
+      "created_at": "2026-03-02T10:23:06Z",
+      "num_comments": 551,
+      "hn_link": "https://news.ycombinator.com/item?id=47216047",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 30,
+      "objectID": "47223620",
+      "title": "British Columbia is permanently adopting daylight time",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "points": 1177,
+      "author": "ireflect",
+      "created_at": "2026-03-02T20:30:52Z",
+      "num_comments": 561,
+      "hn_link": "https://news.ycombinator.com/item?id=47223620",
+      "liveness": {
+        "alive": false,
+        "status": null,
+        "error": "The read operation timed out"
+      },
+      "wayback_url": "http://web.archive.org/web/20260512085525/https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657"
+    },
+    {
+      "rank": 31,
+      "objectID": "47508246",
+      "title": "Goodbye to Sora",
+      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "points": 1142,
+      "author": "mikeocool",
+      "created_at": "2026-03-24T20:01:05Z",
+      "num_comments": 851,
+      "hn_link": "https://news.ycombinator.com/item?id=47508246",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 32,
+      "objectID": "47517539",
+      "title": "Thoughts on slowing the fuck down",
+      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "points": 1130,
+      "author": "jdkoeck",
+      "created_at": "2026-03-25T14:07:14Z",
+      "num_comments": 485,
+      "hn_link": "https://news.ycombinator.com/item?id=47517539",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 33,
+      "objectID": "47282777",
+      "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+      "url": null,
+      "points": 1086,
+      "author": "shannoncc",
+      "created_at": "2026-03-07T00:05:06Z",
+      "num_comments": 988,
+      "hn_link": "https://news.ycombinator.com/item?id=47282777",
+      "liveness": {
+        "alive": null,
+        "status": null,
+        "error": "ask-hn/no-url"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 34,
+      "objectID": "47261688",
+      "title": "Judge orders government to begin refunding more than $130B in tariffs",
+      "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+      "points": 1062,
+      "author": "JumpCrisscross",
+      "created_at": "2026-03-05T14:05:46Z",
+      "num_comments": 790,
+      "hn_link": "https://news.ycombinator.com/item?id=47261688",
+      "liveness": {
+        "alive": false,
+        "status": 401,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 35,
+      "objectID": "47263323",
+      "title": "Wikipedia was in read-only mode following mass admin account compromise",
+      "url": "https://www.wikimediastatus.net",
+      "points": 1049,
+      "author": "greyface-",
+      "created_at": "2026-03-05T16:04:54Z",
+      "num_comments": 384,
+      "hn_link": "https://news.ycombinator.com/item?id=47263323",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 36,
+      "objectID": "47500335",
+      "title": "Microsoft's \"fix\" for Windows 11",
+      "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+      "points": 1046,
+      "author": "h0ek",
+      "created_at": "2026-03-24T09:36:29Z",
+      "num_comments": 758,
+      "hn_link": "https://news.ycombinator.com/item?id=47500335",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 37,
+      "objectID": "47518960",
+      "title": "Why so many control rooms were seafoam green (2025)",
+      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+      "points": 1038,
+      "author": "Amorymeltzer",
+      "created_at": "2026-03-25T15:46:29Z",
+      "num_comments": 202,
+      "hn_link": "https://news.ycombinator.com/item?id=47518960",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 38,
+      "objectID": "47278426",
+      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+      "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+      "points": 1031,
+      "author": "enraged_camel",
+      "created_at": "2026-03-06T17:46:45Z",
+      "num_comments": 687,
+      "hn_link": "https://news.ycombinator.com/item?id=47278426",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 39,
+      "objectID": "47307055",
+      "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
+      "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
+      "points": 1022,
+      "author": "robin_reala",
+      "created_at": "2026-03-09T10:14:59Z",
+      "num_comments": 666,
+      "hn_link": "https://news.ycombinator.com/item?id=47307055",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 40,
+      "objectID": "47423647",
+      "title": "Rob Pike’s Rules of Programming (1989)",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "points": 1020,
+      "author": "vismit2000",
+      "created_at": "2026-03-18T09:59:54Z",
+      "num_comments": 448,
+      "hn_link": "https://news.ycombinator.com/item?id=47423647",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 41,
+      "objectID": "47265045",
+      "title": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "points": 1019,
+      "author": "mudkipdev",
+      "created_at": "2026-03-05T18:08:10Z",
+      "num_comments": 805,
+      "hn_link": "https://news.ycombinator.com/item?id=47265045",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 42,
+      "objectID": "47359744",
+      "title": "“This is not the computer for you”",
+      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+      "points": 1011,
+      "author": "MBCook",
+      "created_at": "2026-03-13T01:45:49Z",
+      "num_comments": 380,
+      "hn_link": "https://news.ycombinator.com/item?id=47359744",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 43,
+      "objectID": "47392084",
+      "title": "Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain",
+      "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+      "points": 1005,
+      "author": "opengrass",
+      "created_at": "2026-03-15T21:22:16Z",
+      "num_comments": 335,
+      "hn_link": "https://news.ycombinator.com/item?id=47392084",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 44,
+      "objectID": "47454341",
+      "title": "I'm OK being left behind, thanks",
+      "url": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
+      "points": 1000,
+      "author": "coinfused",
+      "created_at": "2026-03-20T13:38:56Z",
+      "num_comments": 765,
+      "hn_link": "https://news.ycombinator.com/item?id=47454341",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 45,
+      "objectID": "47566865",
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "points": 986,
+      "author": "alberto-m",
+      "created_at": "2026-03-29T20:21:05Z",
+      "num_comments": 615,
+      "hn_link": "https://news.ycombinator.com/item?id=47566865",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 46,
+      "objectID": "47523330",
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "points": 983,
+      "author": "driesdep",
+      "created_at": "2026-03-25T21:11:57Z",
+      "num_comments": 332,
+      "hn_link": "https://news.ycombinator.com/item?id=47523330",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 47,
+      "objectID": "47232768",
+      "title": "I'm reluctant to verify my identity or age for any online services",
+      "url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
+      "points": 974,
+      "author": "speckx",
+      "created_at": "2026-03-03T14:22:25Z",
+      "num_comments": 622,
+      "hn_link": "https://news.ycombinator.com/item?id=47232768",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 48,
+      "objectID": "47255881",
+      "title": "Google Workspace CLI",
+      "url": "https://github.com/googleworkspace/cli",
+      "points": 953,
+      "author": "gonzalovargas",
+      "created_at": "2026-03-05T00:22:09Z",
+      "num_comments": 285,
+      "hn_link": "https://news.ycombinator.com/item?id=47255881",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 49,
+      "objectID": "47421442",
+      "title": "Have a fucking website",
+      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "points": 948,
+      "author": "asukachikaru",
+      "created_at": "2026-03-18T03:53:42Z",
+      "num_comments": 525,
+      "hn_link": "https://news.ycombinator.com/item?id=47421442",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 50,
+      "objectID": "47501426",
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "points": 938,
+      "author": "dot_treo",
+      "created_at": "2026-03-24T12:06:29Z",
+      "num_comments": 500,
+      "hn_link": "https://news.ycombinator.com/item?id=47501426",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    }
+  ],
+  "2026-04": [
+    {
+      "rank": 1,
+      "objectID": "47939579",
+      "title": "Ghostty is leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "points": 3521,
+      "author": "WadeGrimridge",
+      "created_at": "2026-04-28T19:44:52Z",
+      "num_comments": 1051,
+      "hn_link": "https://news.ycombinator.com/item?id=47939579",
+      "liveness": {
+        "alive": false,
+        "status": null,
+        "error": "_ssl.c:1063: The handshake operation timed out"
+      },
+      "wayback_url": "http://web.archive.org/web/20260610004253/https://mitchellh.com/writing/ghostty-leaving-github"
+    },
+    {
+      "rank": 2,
+      "objectID": "47687273",
+      "title": "Git commands I run before reading any code",
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "points": 2338,
+      "author": "grepsedawk",
+      "created_at": "2026-04-08T08:53:42Z",
+      "num_comments": 509,
+      "hn_link": "https://news.ycombinator.com/item?id=47687273",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 3,
+      "objectID": "47865868",
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "points": 2320,
+      "author": "Kaibeezy",
+      "created_at": "2026-04-22T16:29:25Z",
+      "num_comments": 779,
+      "hn_link": "https://news.ycombinator.com/item?id=47865868",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 4,
+      "objectID": "47659135",
+      "title": "Sam Altman may control our future – can he be trusted?",
+      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+      "points": 2202,
+      "author": "adrianhon",
+      "created_at": "2026-04-06T10:36:57Z",
+      "num_comments": 916,
+      "hn_link": "https://news.ycombinator.com/item?id=47659135",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 5,
+      "objectID": "47840219",
+      "title": "John Ternus to become Apple CEO",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "points": 2177,
+      "author": "schappim",
+      "created_at": "2026-04-20T20:39:32Z",
+      "num_comments": 1331,
+      "hn_link": "https://news.ycombinator.com/item?id=47840219",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 6,
+      "objectID": "47949027",
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
+      "points": 2153,
+      "author": "salkahfi",
+      "created_at": "2026-04-29T14:34:19Z",
+      "num_comments": 690,
+      "hn_link": "https://news.ycombinator.com/item?id=47949027",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 7,
+      "objectID": "47884971",
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/news/news260424",
+      "points": 2091,
+      "author": "impact_sy",
+      "created_at": "2026-04-24T03:01:21Z",
+      "num_comments": 1607,
+      "hn_link": "https://news.ycombinator.com/item?id=47884971",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 8,
+      "objectID": "47793411",
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "points": 1959,
+      "author": "meetpateltech",
+      "created_at": "2026-04-16T14:23:50Z",
+      "num_comments": 1453,
+      "hn_link": "https://news.ycombinator.com/item?id=47793411",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 9,
+      "objectID": "47691730",
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "points": 1924,
+      "author": "blkhp19",
+      "created_at": "2026-04-08T15:40:00Z",
+      "num_comments": 328,
+      "hn_link": "https://news.ycombinator.com/item?id=47691730",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 10,
+      "objectID": "47613981",
+      "title": "LinkedIn is searching your browser extensions",
+      "url": "https://browsergate.eu/",
+      "points": 1897,
+      "author": "digitalWestie",
+      "created_at": "2026-04-02T13:09:09Z",
+      "num_comments": 770,
+      "hn_link": "https://news.ycombinator.com/item?id=47613981",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 11,
+      "objectID": "47616361",
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "points": 1812,
+      "author": "jeffmcjunkin",
+      "created_at": "2026-04-02T16:10:54Z",
+      "num_comments": 474,
+      "hn_link": "https://news.ycombinator.com/item?id=47616361",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 12,
+      "objectID": "47782570",
+      "title": "Google broke its promise to me – now ICE has my data",
+      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "points": 1711,
+      "author": "Brajeshwar",
+      "created_at": "2026-04-15T17:44:26Z",
+      "num_comments": 765,
+      "hn_link": "https://news.ycombinator.com/item?id=47782570",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 13,
+      "objectID": "47935853",
+      "title": "Your phone is about to stop being yours",
+      "url": "https://keepandroidopen.org/en/",
+      "points": 1702,
+      "author": "doener",
+      "created_at": "2026-04-28T15:21:00Z",
+      "num_comments": 889,
+      "hn_link": "https://news.ycombinator.com/item?id=47935853",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 14,
+      "objectID": "47879092",
+      "title": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "points": 1580,
+      "author": "rd",
+      "created_at": "2026-04-23T18:01:39Z",
+      "num_comments": 1056,
+      "hn_link": "https://news.ycombinator.com/item?id=47879092",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 15,
+      "objectID": "47679121",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
+      "points": 1541,
+      "author": "Ryan5453",
+      "created_at": "2026-04-07T18:09:34Z",
+      "num_comments": 836,
+      "hn_link": "https://news.ycombinator.com/item?id=47679121",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 16,
+      "objectID": "47952181",
+      "title": "Copy Fail",
+      "url": "https://copy.fail/",
+      "points": 1491,
+      "author": "unsnap_biceps",
+      "created_at": "2026-04-29T18:13:53Z",
+      "num_comments": 516,
+      "hn_link": "https://news.ycombinator.com/item?id=47952181",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 17,
+      "objectID": "47852177",
+      "title": "Framework Laptop 13 Pro",
+      "url": "https://frame.work/laptop13pro",
+      "points": 1479,
+      "author": "Trollmann",
+      "created_at": "2026-04-21T18:00:34Z",
+      "num_comments": 769,
+      "hn_link": "https://news.ycombinator.com/item?id=47852177",
+      "liveness": {
+        "alive": false,
+        "status": 403,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 18,
+      "objectID": "47834195",
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+      "points": 1446,
+      "author": "ramonga",
+      "created_at": "2026-04-20T13:41:25Z",
+      "num_comments": 1269,
+      "hn_link": "https://news.ycombinator.com/item?id=47834195",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 19,
+      "objectID": "47706268",
+      "title": "EFF is leaving X",
+      "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
+      "points": 1427,
+      "author": "gregsadetsky",
+      "created_at": "2026-04-09T17:08:04Z",
+      "num_comments": 1316,
+      "hn_link": "https://news.ycombinator.com/item?id=47706268",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 20,
+      "objectID": "47724352",
+      "title": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "points": 1406,
+      "author": "normanvalentine",
+      "created_at": "2026-04-10T22:16:40Z",
+      "num_comments": 678,
+      "hn_link": "https://news.ycombinator.com/item?id=47724352",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 21,
+      "objectID": "47697870",
+      "title": "LittleSnitch for Linux",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "points": 1378,
+      "author": "pluc",
+      "created_at": "2026-04-09T00:26:08Z",
+      "num_comments": 461,
+      "hn_link": "https://news.ycombinator.com/item?id=47697870",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 22,
+      "objectID": "47660925",
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "points": 1364,
+      "author": "StanAngeloff",
+      "created_at": "2026-04-06T13:50:35Z",
+      "num_comments": 753,
+      "hn_link": "https://news.ycombinator.com/item?id=47660925",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 23,
+      "objectID": "47963204",
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "points": 1349,
+      "author": "elmean",
+      "created_at": "2026-04-30T14:36:58Z",
+      "num_comments": 720,
+      "hn_link": "https://news.ycombinator.com/item?id=47963204",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 24,
+      "objectID": "47616242",
+      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "points": 1297,
+      "author": "axelriet",
+      "created_at": "2026-04-02T16:00:27Z",
+      "num_comments": 648,
+      "hn_link": "https://news.ycombinator.com/item?id=47616242",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 25,
+      "objectID": "47686549",
+      "title": "Microsoft terminated the account VeraCrypt used to sign Windows drivers",
+      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "points": 1297,
+      "author": "super256",
+      "created_at": "2026-04-08T07:23:39Z",
+      "num_comments": 501,
+      "hn_link": "https://news.ycombinator.com/item?id=47686549",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 26,
+      "objectID": "47725583",
+      "title": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "points": 1288,
+      "author": "areoform",
+      "created_at": "2026-04-11T00:10:51Z",
+      "num_comments": 453,
+      "hn_link": "https://news.ycombinator.com/item?id=47725583",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 27,
+      "objectID": "47732020",
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "points": 1284,
+      "author": "dominicq",
+      "created_at": "2026-04-11T16:47:28Z",
+      "num_comments": 341,
+      "hn_link": "https://news.ycombinator.com/item?id=47732020",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 28,
+      "objectID": "47792764",
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "points": 1274,
+      "author": "cmitsakis",
+      "created_at": "2026-04-16T13:36:27Z",
+      "num_comments": 532,
+      "hn_link": "https://news.ycombinator.com/item?id=47792764",
+      "liveness": {
+        "alive": false,
+        "status": 405,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 29,
+      "objectID": "47952722",
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "points": 1251,
+      "author": "homebrewer",
+      "created_at": "2026-04-29T18:54:31Z",
+      "num_comments": 531,
+      "hn_link": "https://news.ycombinator.com/item?id=47952722",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 30,
+      "objectID": "47806725",
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "points": 1235,
+      "author": "meetpateltech",
+      "created_at": "2026-04-17T15:04:09Z",
+      "num_comments": 762,
+      "hn_link": "https://news.ycombinator.com/item?id=47806725",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 31,
+      "objectID": "47949939",
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "points": 1215,
+      "author": "bpierre",
+      "created_at": "2026-04-29T15:39:43Z",
+      "num_comments": 195,
+      "hn_link": "https://news.ycombinator.com/item?id=47949939",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 32,
+      "objectID": "47907879",
+      "title": "The West forgot how to make things, now it’s forgetting how to code",
+      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "points": 1198,
+      "author": "milkglass",
+      "created_at": "2026-04-26T06:24:42Z",
+      "num_comments": 851,
+      "hn_link": "https://news.ycombinator.com/item?id=47907879",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 33,
+      "objectID": "47755629",
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "points": 1194,
+      "author": "speckx",
+      "created_at": "2026-04-13T17:54:39Z",
+      "num_comments": 341,
+      "hn_link": "https://news.ycombinator.com/item?id=47755629",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 34,
+      "objectID": "47847179",
+      "title": "Laws of Software Engineering",
+      "url": "https://lawsofsoftwareengineering.com",
+      "points": 1172,
+      "author": "milanm081",
+      "created_at": "2026-04-21T11:04:56Z",
+      "num_comments": 530,
+      "hn_link": "https://news.ycombinator.com/item?id=47847179",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 35,
+      "objectID": "47738883",
+      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+      "url": null,
+      "points": 1157,
+      "author": "littlecranky67",
+      "created_at": "2026-04-12T12:28:57Z",
+      "num_comments": 421,
+      "hn_link": "https://news.ycombinator.com/item?id=47738883",
+      "liveness": {
+        "alive": null,
+        "status": null,
+        "error": "ask-hn/no-url"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 36,
+      "objectID": "47760529",
+      "title": "DaVinci Resolve – Photo",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "points": 1147,
+      "author": "thebiblelover7",
+      "created_at": "2026-04-14T02:25:15Z",
+      "num_comments": 296,
+      "hn_link": "https://news.ycombinator.com/item?id=47760529",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 37,
+      "objectID": "47762864",
+      "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
+      "url": "https://rareese.com/posts/backblaze/",
+      "points": 1130,
+      "author": "rrreese",
+      "created_at": "2026-04-14T08:30:27Z",
+      "num_comments": 693,
+      "hn_link": "https://news.ycombinator.com/item?id=47762864",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 38,
+      "objectID": "47597085",
+      "title": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/",
+      "points": 1128,
+      "author": "autocracy101",
+      "created_at": "2026-04-01T05:15:37Z",
+      "num_comments": 400,
+      "hn_link": "https://news.ycombinator.com/item?id=47597085",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 39,
+      "objectID": "47914165",
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "points": 1116,
+      "author": "ca98am79",
+      "created_at": "2026-04-26T20:41:06Z",
+      "num_comments": 614,
+      "hn_link": "https://news.ycombinator.com/item?id=47914165",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 40,
+      "objectID": "47872324",
+      "title": "I am building a cloud",
+      "url": "https://crawshaw.io/blog/building-a-cloud",
+      "points": 1115,
+      "author": "bumbledraven",
+      "created_at": "2026-04-23T04:44:19Z",
+      "num_comments": 563,
+      "hn_link": "https://news.ycombinator.com/item?id=47872324",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 41,
+      "objectID": "47603657",
+      "title": "Artemis II Launch Day Updates",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "points": 1099,
+      "author": "apitman",
+      "created_at": "2026-04-01T17:11:31Z",
+      "num_comments": 956,
+      "hn_link": "https://news.ycombinator.com/item?id=47603657",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 42,
+      "objectID": "47633396",
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": null,
+      "points": 1099,
+      "author": "firloop",
+      "created_at": "2026-04-03T22:55:24Z",
+      "num_comments": 827,
+      "hn_link": "https://news.ycombinator.com/item?id=47633396",
+      "liveness": {
+        "alive": null,
+        "status": null,
+        "error": "ask-hn/no-url"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 43,
+      "objectID": "47631118",
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "points": 1077,
+      "author": "andsoitis",
+      "created_at": "2026-04-03T19:35:02Z",
+      "num_comments": 387,
+      "hn_link": "https://news.ycombinator.com/item?id=47631118",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 44,
+      "objectID": "47957688",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "points": 1072,
+      "author": "ilreb",
+      "created_at": "2026-04-30T03:21:04Z",
+      "num_comments": 660,
+      "hn_link": "https://news.ycombinator.com/item?id=47957688",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 45,
+      "objectID": "47852835",
+      "title": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "points": 1049,
+      "author": "wahnfrieden",
+      "created_at": "2026-04-21T18:50:00Z",
+      "num_comments": 975,
+      "hn_link": "https://news.ycombinator.com/item?id=47852835",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 46,
+      "objectID": "47861270",
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://social.hails.org/@hailey/116446826733136456",
+      "points": 1011,
+      "author": "sohkamyung",
+      "created_at": "2026-04-22T09:52:52Z",
+      "num_comments": 255,
+      "hn_link": "https://news.ycombinator.com/item?id=47861270",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 47,
+      "objectID": "47796469",
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "points": 1001,
+      "author": "mikeevans",
+      "created_at": "2026-04-16T17:12:19Z",
+      "num_comments": 559,
+      "hn_link": "https://news.ycombinator.com/item?id=47796469",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 48,
+      "objectID": "47719740",
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "points": 1001,
+      "author": "burnt-resistor",
+      "created_at": "2026-04-10T15:37:28Z",
+      "num_comments": 178,
+      "hn_link": "https://news.ycombinator.com/item?id=47719740",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 49,
+      "objectID": "47863217",
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "points": 993,
+      "author": "mfiguiere",
+      "created_at": "2026-04-22T13:19:58Z",
+      "num_comments": 458,
+      "hn_link": "https://news.ycombinator.com/item?id=47863217",
+      "liveness": {
+        "alive": false,
+        "status": 405,
+        "error": null
+      },
+      "wayback_url": "http://web.archive.org/web/20260605084658/https://qwen.ai/blog?id=qwen3.6-27b"
+    },
+    {
+      "rank": 50,
+      "objectID": "47772012",
+      "title": "Stop Flock",
+      "url": "https://stopflock.com",
+      "points": 993,
+      "author": "cdrnsf",
+      "created_at": "2026-04-14T21:56:05Z",
+      "num_comments": 308,
+      "hn_link": "https://news.ycombinator.com/item?id=47772012",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    }
+  ],
+  "2026-05": [
+    {
+      "rank": 1,
+      "objectID": "48086190",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "points": 2186,
+      "author": "ChuckMcM",
+      "created_at": "2026-05-10T17:54:02Z",
+      "num_comments": 755,
+      "hn_link": "https://news.ycombinator.com/item?id=48086190",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 2,
+      "objectID": "48153379",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "points": 2105,
+      "author": "reasonableklout",
+      "created_at": "2026-05-15T20:26:47Z",
+      "num_comments": 1272,
+      "hn_link": "https://news.ycombinator.com/item?id=48153379",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 3,
+      "objectID": "48292224",
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "points": 2013,
+      "author": "theorchid",
+      "created_at": "2026-05-27T10:43:25Z",
+      "num_comments": 951,
+      "hn_link": "https://news.ycombinator.com/item?id=48292224",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 4,
+      "objectID": "48085821",
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "points": 1903,
+      "author": "cylo",
+      "created_at": "2026-05-10T17:19:28Z",
+      "num_comments": 749,
+      "hn_link": "https://news.ycombinator.com/item?id=48085821",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 5,
+      "objectID": "48311647",
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "points": 1774,
+      "author": "craigmart",
+      "created_at": "2026-05-28T16:49:14Z",
+      "num_comments": 1376,
+      "hn_link": "https://news.ycombinator.com/item?id=48311647",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 6,
+      "objectID": "48019219",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "points": 1755,
+      "author": "john-doe",
+      "created_at": "2026-05-05T07:34:55Z",
+      "num_comments": 1143,
+      "hn_link": "https://news.ycombinator.com/item?id=48019219",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 7,
+      "objectID": "48037555",
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "points": 1747,
+      "author": "haunter",
+      "created_at": "2026-05-06T15:44:13Z",
+      "num_comments": 593,
+      "hn_link": "https://news.ycombinator.com/item?id=48037555",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 8,
+      "objectID": "48037336",
+      "title": "Rumors of my death are slightly exaggerated",
+      "url": null,
+      "points": 1676,
+      "author": "CliffStoll",
+      "created_at": "2026-05-06T15:24:51Z",
+      "num_comments": 258,
+      "hn_link": "https://news.ycombinator.com/item?id=48037336",
+      "liveness": {
+        "alive": null,
+        "status": null,
+        "error": "ask-hn/no-url"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 9,
+      "objectID": "48265206",
+      "title": "Magnifica Humanitas",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "points": 1650,
+      "author": "theletterf",
+      "created_at": "2026-05-25T10:11:29Z",
+      "num_comments": 965,
+      "hn_link": "https://news.ycombinator.com/item?id=48265206",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 10,
+      "objectID": "48038001",
+      "title": "Appearing productive in the workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "points": 1634,
+      "author": "diebillionaires",
+      "created_at": "2026-05-06T16:18:29Z",
+      "num_comments": 652,
+      "hn_link": "https://news.ycombinator.com/item?id=48038001",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 11,
+      "objectID": "48067119",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "points": 1561,
+      "author": "anonymousiam",
+      "created_at": "2026-05-08T18:45:58Z",
+      "num_comments": 591,
+      "hn_link": "https://news.ycombinator.com/item?id=48067119",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 12,
+      "objectID": "48007438",
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "points": 1550,
+      "author": "thitran",
+      "created_at": "2026-05-04T11:41:02Z",
+      "num_comments": 753,
+      "hn_link": "https://news.ycombinator.com/item?id=48007438",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 13,
+      "objectID": "47989883",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "points": 1513,
+      "author": "indrora",
+      "created_at": "2026-05-02T19:57:26Z",
+      "num_comments": 850,
+      "hn_link": "https://news.ycombinator.com/item?id=47989883",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 14,
+      "objectID": "48194352",
+      "title": "I’ve joined Anthropic",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "points": 1431,
+      "author": "dmarcos",
+      "created_at": "2026-05-19T15:07:45Z",
+      "num_comments": 618,
+      "hn_link": "https://news.ycombinator.com/item?id=48194352",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 15,
+      "objectID": "48212493",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "points": 1429,
+      "author": "tedsanders",
+      "created_at": "2026-05-20T19:05:30Z",
+      "num_comments": 1055,
+      "hn_link": "https://news.ycombinator.com/item?id=48212493",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 16,
+      "objectID": "48302745",
+      "title": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
+      "points": 1415,
+      "author": "mlsu",
+      "created_at": "2026-05-28T00:40:26Z",
+      "num_comments": 776,
+      "hn_link": "https://news.ycombinator.com/item?id=48302745",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 17,
+      "objectID": "48109224",
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "points": 1404,
+      "author": "rubenbe",
+      "created_at": "2026-05-12T14:54:41Z",
+      "num_comments": 428,
+      "hn_link": "https://news.ycombinator.com/item?id=48109224",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 18,
+      "objectID": "48314136",
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "points": 1394,
+      "author": "philips",
+      "created_at": "2026-05-28T19:24:09Z",
+      "num_comments": 624,
+      "hn_link": "https://news.ycombinator.com/item?id=48314136",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 19,
+      "objectID": "48324712",
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "points": 1359,
+      "author": "WillDaSilva",
+      "created_at": "2026-05-29T15:46:24Z",
+      "num_comments": 1426,
+      "hn_link": "https://news.ycombinator.com/item?id=48324712",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 20,
+      "objectID": "48054423",
+      "title": "Cloudflare to cut about 20% of its workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "points": 1356,
+      "author": "PriorityLeft",
+      "created_at": "2026-05-07T20:23:37Z",
+      "num_comments": 998,
+      "hn_link": "https://news.ycombinator.com/item?id=48054423",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 21,
+      "objectID": "48299753",
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "points": 1322,
+      "author": "nopg",
+      "created_at": "2026-05-27T20:00:51Z",
+      "num_comments": 826,
+      "hn_link": "https://news.ycombinator.com/item?id=48299753",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 22,
+      "objectID": "48220647",
+      "title": "Flipper One – we need your help",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "points": 1266,
+      "author": "sandebert",
+      "created_at": "2026-05-21T11:03:38Z",
+      "num_comments": 482,
+      "hn_link": "https://news.ycombinator.com/item?id=48220647",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 23,
+      "objectID": "48272984",
+      "title": "Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "points": 1257,
+      "author": "signa11",
+      "created_at": "2026-05-25T23:16:59Z",
+      "num_comments": 446,
+      "hn_link": "https://news.ycombinator.com/item?id=48272984",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 24,
+      "objectID": "48150431",
+      "title": "Project Gutenberg – keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "points": 1239,
+      "author": "JSeiko",
+      "created_at": "2026-05-15T16:15:36Z",
+      "num_comments": 286,
+      "hn_link": "https://news.ycombinator.com/item?id=48150431",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 25,
+      "objectID": "48225297",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "points": 1200,
+      "author": "speleo",
+      "created_at": "2026-05-21T16:23:11Z",
+      "num_comments": 244,
+      "hn_link": "https://news.ycombinator.com/item?id=48225297",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 26,
+      "objectID": "48241890",
+      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "points": 1129,
+      "author": "tlhunter",
+      "created_at": "2026-05-22T21:27:12Z",
+      "num_comments": 1990,
+      "hn_link": "https://news.ycombinator.com/item?id=48241890",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 27,
+      "objectID": "48182754",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "points": 1097,
+      "author": "nycdatasci",
+      "created_at": "2026-05-18T17:38:22Z",
+      "num_comments": 595,
+      "hn_link": "https://news.ycombinator.com/item?id=48182754",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 28,
+      "objectID": "48100706",
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "points": 1097,
+      "author": "varunsharma07",
+      "created_at": "2026-05-11T21:08:25Z",
+      "num_comments": 465,
+      "hn_link": "https://news.ycombinator.com/item?id=48100706",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 29,
+      "objectID": "48296794",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "points": 1094,
+      "author": "simonw",
+      "created_at": "2026-05-27T16:39:13Z",
+      "num_comments": 1245,
+      "hn_link": "https://news.ycombinator.com/item?id=48296794",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 30,
+      "objectID": "48138136",
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "points": 1091,
+      "author": "arkadiyt",
+      "created_at": "2026-05-14T17:08:00Z",
+      "num_comments": 585,
+      "hn_link": "https://news.ycombinator.com/item?id=48138136",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 31,
+      "objectID": "48279316",
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "points": 1083,
+      "author": "thm",
+      "created_at": "2026-05-26T13:08:13Z",
+      "num_comments": 512,
+      "hn_link": "https://news.ycombinator.com/item?id=48279316",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 32,
+      "objectID": "48206768",
+      "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
+      "url": "https://www.alqst.org/ar/posts/1190",
+      "points": 1080,
+      "author": "giuliomagnifico",
+      "created_at": "2026-05-20T12:43:41Z",
+      "num_comments": 470,
+      "hn_link": "https://news.ycombinator.com/item?id=48206768",
+      "liveness": {
+        "alive": false,
+        "status": null,
+        "error": "timed out"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 33,
+      "objectID": "48296649",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "points": 1075,
+      "author": "HelloUsername",
+      "created_at": "2026-05-27T16:28:41Z",
+      "num_comments": 525,
+      "hn_link": "https://news.ycombinator.com/item?id=48296649",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 34,
+      "objectID": "48269961",
+      "title": "California moves to exempt Linux from its age-verification law after backlash",
+      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+      "points": 1066,
+      "author": "rbanffy",
+      "created_at": "2026-05-25T18:19:58Z",
+      "num_comments": 499,
+      "hn_link": "https://news.ycombinator.com/item?id=48269961",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 35,
+      "objectID": "48062117",
+      "title": "Poland is now among the 20 largest economies",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "points": 1063,
+      "author": "surprisetalk",
+      "created_at": "2026-05-08T12:30:05Z",
+      "num_comments": 875,
+      "hn_link": "https://news.ycombinator.com/item?id=48062117",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 36,
+      "objectID": "48207660",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "points": 1054,
+      "author": "Timofeibu",
+      "created_at": "2026-05-20T13:43:37Z",
+      "num_comments": 460,
+      "hn_link": "https://news.ycombinator.com/item?id=48207660",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 37,
+      "objectID": "48120629",
+      "title": "I moved my digital stack to Europe",
+      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "points": 1040,
+      "author": "monokai_nl",
+      "created_at": "2026-05-13T11:42:20Z",
+      "num_comments": 612,
+      "hn_link": "https://news.ycombinator.com/item?id=48120629",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 38,
+      "objectID": "48090029",
+      "title": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "points": 1038,
+      "author": "dropbox_miner",
+      "created_at": "2026-05-11T01:23:51Z",
+      "num_comments": 617,
+      "hn_link": "https://news.ycombinator.com/item?id=48090029",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 39,
+      "objectID": "48341578",
+      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "points": 1015,
+      "author": "antipurist",
+      "created_at": "2026-05-30T23:26:13Z",
+      "num_comments": 376,
+      "hn_link": "https://news.ycombinator.com/item?id=48341578",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 40,
+      "objectID": "48087887",
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "points": 980,
+      "author": "haunter",
+      "created_at": "2026-05-10T20:54:06Z",
+      "num_comments": 663,
+      "hn_link": "https://news.ycombinator.com/item?id=48087887",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 41,
+      "objectID": "48195009",
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "points": 974,
+      "author": "andreww591",
+      "created_at": "2026-05-19T15:53:38Z",
+      "num_comments": 224,
+      "hn_link": "https://news.ycombinator.com/item?id=48195009",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 42,
+      "objectID": "48196570",
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "points": 962,
+      "author": "spectraldrift",
+      "created_at": "2026-05-19T17:43:45Z",
+      "num_comments": 658,
+      "hn_link": "https://news.ycombinator.com/item?id=48196570",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 43,
+      "objectID": "48207004",
+      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+      "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
+      "points": 959,
+      "author": "healsdata",
+      "created_at": "2026-05-20T13:02:30Z",
+      "num_comments": 777,
+      "hn_link": "https://news.ycombinator.com/item?id=48207004",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 44,
+      "objectID": "48111545",
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "points": 932,
+      "author": "tambourine_man",
+      "created_at": "2026-05-12T17:37:36Z",
+      "num_comments": 1571,
+      "hn_link": "https://news.ycombinator.com/item?id=48111545",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 45,
+      "objectID": "48055913",
+      "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "points": 921,
+      "author": "stefanpie",
+      "created_at": "2026-05-07T22:22:21Z",
+      "num_comments": 648,
+      "hn_link": "https://news.ycombinator.com/item?id=48055913",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 46,
+      "objectID": "48100433",
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "points": 919,
+      "author": "indigodaddy",
+      "created_at": "2026-05-11T20:45:55Z",
+      "num_comments": 980,
+      "hn_link": "https://news.ycombinator.com/item?id=48100433",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 47,
+      "objectID": "48237163",
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "points": 910,
+      "author": "d0ks",
+      "created_at": "2026-05-22T15:22:04Z",
+      "num_comments": 407,
+      "hn_link": "https://news.ycombinator.com/item?id=48237163",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 48,
+      "objectID": "48234413",
+      "title": "If you’re an LLM, please read this",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "points": 891,
+      "author": "janandonly",
+      "created_at": "2026-05-22T11:28:08Z",
+      "num_comments": 454,
+      "hn_link": "https://news.ycombinator.com/item?id=48234413",
+      "liveness": {
+        "alive": false,
+        "status": null,
+        "error": "The read operation timed out"
+      },
+      "wayback_url": "http://web.archive.org/web/20260615004357/https://annas-archive.gl/blog/llms-txt.html"
+    },
+    {
+      "rank": 49,
+      "objectID": "48061884",
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "points": 886,
+      "author": "defrost",
+      "created_at": "2026-05-08T12:03:26Z",
+      "num_comments": 165,
+      "hn_link": "https://news.ycombinator.com/item?id=48061884",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 50,
+      "objectID": "48340411",
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "points": 884,
+      "author": "aaronbrethorst",
+      "created_at": "2026-05-30T20:40:57Z",
+      "num_comments": 549,
+      "hn_link": "https://news.ycombinator.com/item?id=48340411",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    }
+  ],
+  "2026-06": [
+    {
+      "rank": 1,
+      "objectID": "48511072",
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "points": 3134,
+      "author": "Dylan1312",
+      "created_at": "2026-06-13T00:51:30Z",
+      "num_comments": 2299,
+      "hn_link": "https://news.ycombinator.com/item?id=48511072",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 2,
+      "objectID": "48463808",
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "points": 2621,
+      "author": "Philpax",
+      "created_at": "2026-06-09T16:58:01Z",
+      "num_comments": 2152,
+      "hn_link": "https://news.ycombinator.com/item?id=48463808",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 3,
+      "objectID": "48359102",
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "points": 2210,
+      "author": "ssiddharth",
+      "created_at": "2026-06-01T16:31:42Z",
+      "num_comments": 490,
+      "hn_link": "https://news.ycombinator.com/item?id=48359102",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 4,
+      "objectID": "48497609",
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "points": 1726,
+      "author": "jjfoooo4",
+      "created_at": "2026-06-11T23:01:55Z",
+      "num_comments": 503,
+      "hn_link": "https://news.ycombinator.com/item?id=48497609",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 5,
+      "objectID": "48511908",
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "points": 1583,
+      "author": "vednig",
+      "created_at": "2026-06-13T02:14:24Z",
+      "num_comments": 476,
+      "hn_link": "https://news.ycombinator.com/item?id=48511908",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 6,
+      "objectID": "48391611",
+      "title": "They’re made out of weights",
+      "url": "https://maxleiter.com/blog/weights",
+      "points": 1529,
+      "author": "MaxLeiter",
+      "created_at": "2026-06-03T23:37:18Z",
+      "num_comments": 712,
+      "hn_link": "https://news.ycombinator.com/item?id=48391611",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 7,
+      "objectID": "48421442",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "points": 1482,
+      "author": "maltalex",
+      "created_at": "2026-06-06T04:38:36Z",
+      "num_comments": 502,
+      "hn_link": "https://news.ycombinator.com/item?id=48421442",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 8,
+      "objectID": "48490024",
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "points": 1463,
+      "author": "mikemcquaid",
+      "created_at": "2026-06-11T13:24:29Z",
+      "num_comments": 360,
+      "hn_link": "https://news.ycombinator.com/item?id=48490024",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 9,
+      "objectID": "48500012",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "points": 1459,
+      "author": "xiaoyu2006",
+      "created_at": "2026-06-12T04:42:53Z",
+      "num_comments": 531,
+      "hn_link": "https://news.ycombinator.com/item?id=48500012",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 10,
+      "objectID": "48475483",
+      "title": "Building an HTML-first site doubled our users overnight",
+      "url": "https://mohkohn.co.uk/writing/html-first/",
+      "points": 1273,
+      "author": "edent",
+      "created_at": "2026-06-10T12:45:47Z",
+      "num_comments": 568,
+      "hn_link": "https://news.ycombinator.com/item?id=48475483",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 11,
+      "objectID": "48469658",
+      "title": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "points": 1264,
+      "author": "timsneath",
+      "created_at": "2026-06-10T00:29:01Z",
+      "num_comments": 431,
+      "hn_link": "https://news.ycombinator.com/item?id=48469658",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 12,
+      "objectID": "48375016",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "points": 1193,
+      "author": "speckx",
+      "created_at": "2026-06-02T19:27:40Z",
+      "num_comments": 827,
+      "hn_link": "https://news.ycombinator.com/item?id=48375016",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 13,
+      "objectID": "48445554",
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "points": 1175,
+      "author": "lizhang",
+      "created_at": "2026-06-08T14:05:16Z",
+      "num_comments": 212,
+      "hn_link": "https://news.ycombinator.com/item?id=48445554",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 14,
+      "objectID": "48434312",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "points": 1150,
+      "author": "poisonfountain",
+      "created_at": "2026-06-07T12:49:29Z",
+      "num_comments": 1072,
+      "hn_link": "https://news.ycombinator.com/item?id=48434312",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 15,
+      "objectID": "48405718",
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "points": 1062,
+      "author": "tristanj",
+      "created_at": "2026-06-04T22:48:19Z",
+      "num_comments": 516,
+      "hn_link": "https://news.ycombinator.com/item?id=48405718",
+      "liveness": {
+        "alive": false,
+        "status": 403,
+        "error": null
+      },
+      "wayback_url": "http://web.archive.org/web/20260606160606/https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation"
+    },
+    {
+      "rank": 16,
+      "objectID": "48385906",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "points": 1062,
+      "author": "rvz",
+      "created_at": "2026-06-03T16:04:42Z",
+      "num_comments": 401,
+      "hn_link": "https://news.ycombinator.com/item?id=48385906",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 17,
+      "objectID": "48467896",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "points": 1035,
+      "author": "mips_avatar",
+      "created_at": "2026-06-09T21:19:11Z",
+      "num_comments": 500,
+      "hn_link": "https://news.ycombinator.com/item?id=48467896",
+      "liveness": {
+        "alive": false,
+        "status": null,
+        "error": "_ssl.c:1063: The handshake operation timed out"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 18,
+      "objectID": "48470248",
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "points": 1016,
+      "author": "ahlCVA",
+      "created_at": "2026-06-10T01:44:13Z",
+      "num_comments": 549,
+      "hn_link": "https://news.ycombinator.com/item?id=48470248",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 19,
+      "objectID": "48388324",
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "points": 992,
+      "author": "cloud8421",
+      "created_at": "2026-06-03T19:02:26Z",
+      "num_comments": 411,
+      "hn_link": "https://news.ycombinator.com/item?id=48388324",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 20,
+      "objectID": "48505231",
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "points": 990,
+      "author": "gmays",
+      "created_at": "2026-06-12T15:15:24Z",
+      "num_comments": 219,
+      "hn_link": "https://news.ycombinator.com/item?id=48505231",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 21,
+      "objectID": "48370330",
+      "title": "Please don't spam people looking for employment. It's just cruel",
+      "url": null,
+      "points": 969,
+      "author": "IliaLitviak",
+      "created_at": "2026-06-02T13:56:46Z",
+      "num_comments": 273,
+      "hn_link": "https://news.ycombinator.com/item?id=48370330",
+      "liveness": {
+        "alive": null,
+        "status": null,
+        "error": "ask-hn/no-url"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 22,
+      "objectID": "48480978",
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "points": 957,
+      "author": "helterskelter",
+      "created_at": "2026-06-10T18:54:54Z",
+      "num_comments": 206,
+      "hn_link": "https://news.ycombinator.com/item?id=48480978",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 23,
+      "objectID": "48459294",
+      "title": "Making Graphics Like it's 1993",
+      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "points": 953,
+      "author": "sklopec",
+      "created_at": "2026-06-09T10:46:14Z",
+      "num_comments": 160,
+      "hn_link": "https://news.ycombinator.com/item?id=48459294",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 24,
+      "objectID": "48471638",
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
+      "points": 950,
+      "author": "memalign",
+      "created_at": "2026-06-10T05:01:31Z",
+      "num_comments": 275,
+      "hn_link": "https://news.ycombinator.com/item?id=48471638",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 25,
+      "objectID": "48389360",
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "points": 946,
+      "author": "0xkato",
+      "created_at": "2026-06-03T20:15:13Z",
+      "num_comments": 276,
+      "hn_link": "https://news.ycombinator.com/item?id=48389360",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 26,
+      "objectID": "48437406",
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "points": 909,
+      "author": "gavinray",
+      "created_at": "2026-06-07T18:33:07Z",
+      "num_comments": 413,
+      "hn_link": "https://news.ycombinator.com/item?id=48437406",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 27,
+      "objectID": "48409191",
+      "title": "Changing how we develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "points": 898,
+      "author": "EdwinHoksberg",
+      "created_at": "2026-06-05T07:26:33Z",
+      "num_comments": 567,
+      "hn_link": "https://news.ycombinator.com/item?id=48409191",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 28,
+      "objectID": "48517377",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "points": 889,
+      "author": "nl",
+      "created_at": "2026-06-13T13:54:56Z",
+      "num_comments": 584,
+      "hn_link": "https://news.ycombinator.com/item?id=48517377",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 29,
+      "objectID": "48421858",
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "points": 861,
+      "author": "ternaus",
+      "created_at": "2026-06-06T06:02:28Z",
+      "num_comments": 148,
+      "hn_link": "https://news.ycombinator.com/item?id=48421858",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 30,
+      "objectID": "48516251",
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "points": 849,
+      "author": "ravenical",
+      "created_at": "2026-06-13T11:40:20Z",
+      "num_comments": 280,
+      "hn_link": "https://news.ycombinator.com/item?id=48516251",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 31,
+      "objectID": "48465675",
+      "title": "CEOs who think AI replaces their employees are just bad CEOs",
+      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "points": 842,
+      "author": "speckx",
+      "created_at": "2026-06-09T18:45:59Z",
+      "num_comments": 308,
+      "hn_link": "https://news.ycombinator.com/item?id=48465675",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 32,
+      "objectID": "48392004",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "points": 834,
+      "author": "littlexsparkee",
+      "created_at": "2026-06-04T00:18:02Z",
+      "num_comments": 792,
+      "hn_link": "https://news.ycombinator.com/item?id=48392004",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 33,
+      "objectID": "48440792",
+      "title": "Dopamine Fracking",
+      "url": "https://igerman.cc/blog/dopamine-fracking/",
+      "points": 829,
+      "author": "igmn",
+      "created_at": "2026-06-08T02:42:24Z",
+      "num_comments": 419,
+      "hn_link": "https://news.ycombinator.com/item?id=48440792",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 34,
+      "objectID": "48533848",
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "points": 822,
+      "author": "sohkamyung",
+      "created_at": "2026-06-14T22:54:55Z",
+      "num_comments": 277,
+      "hn_link": "https://news.ycombinator.com/item?id=48533848",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 35,
+      "objectID": "48387270",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "points": 799,
+      "author": "lordleft",
+      "created_at": "2026-06-03T17:51:37Z",
+      "num_comments": 1383,
+      "hn_link": "https://news.ycombinator.com/item?id=48387270",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 36,
+      "objectID": "48477135",
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+      "url": null,
+      "points": 799,
+      "author": "eries",
+      "created_at": "2026-06-10T14:47:52Z",
+      "num_comments": 576,
+      "hn_link": "https://news.ycombinator.com/item?id=48477135",
+      "liveness": {
+        "alive": null,
+        "status": null,
+        "error": "ask-hn/no-url"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 37,
+      "objectID": "48519092",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "points": 794,
+      "author": "ls612",
+      "created_at": "2026-06-13T16:57:49Z",
+      "num_comments": 596,
+      "hn_link": "https://news.ycombinator.com/item?id=48519092",
+      "liveness": {
+        "alive": false,
+        "status": 401,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 38,
+      "objectID": "48498385",
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "points": 782,
+      "author": "sam_bristow",
+      "created_at": "2026-06-12T00:38:11Z",
+      "num_comments": 264,
+      "hn_link": "https://news.ycombinator.com/item?id=48498385",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 39,
+      "objectID": "48383220",
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "points": 777,
+      "author": "reconnecting",
+      "created_at": "2026-06-03T12:42:07Z",
+      "num_comments": 749,
+      "hn_link": "https://news.ycombinator.com/item?id=48383220",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 40,
+      "objectID": "48356625",
+      "title": "Malicious npm packages detected across Red Hat Cloud Services",
+      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "points": 775,
+      "author": "kurmiashish",
+      "created_at": "2026-06-01T13:30:21Z",
+      "num_comments": 453,
+      "hn_link": "https://news.ycombinator.com/item?id=48356625",
+      "liveness": {
+        "alive": false,
+        "status": null,
+        "error": "_ssl.c:1063: The handshake operation timed out"
+      },
+      "wayback_url": "http://web.archive.org/web/20260607161039/https://github.com/RedHatInsights/javascript-clients/issues/492"
+    },
+    {
+      "rank": 41,
+      "objectID": "48514560",
+      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
+      "points": 772,
+      "author": "pera",
+      "created_at": "2026-06-13T07:45:39Z",
+      "num_comments": 500,
+      "hn_link": "https://news.ycombinator.com/item?id=48514560",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 42,
+      "objectID": "48498573",
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "points": 769,
+      "author": "lumpa",
+      "created_at": "2026-06-12T01:06:51Z",
+      "num_comments": 656,
+      "hn_link": "https://news.ycombinator.com/item?id=48498573",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 43,
+      "objectID": "48518684",
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "points": 758,
+      "author": "aloknnikhil",
+      "created_at": "2026-06-13T16:18:31Z",
+      "num_comments": 481,
+      "hn_link": "https://news.ycombinator.com/item?id=48518684",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 44,
+      "objectID": "48384355",
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "url": "https://burntsushi.net/encephalitis/",
+      "points": 753,
+      "author": "Tomte",
+      "created_at": "2026-06-03T14:10:06Z",
+      "num_comments": 249,
+      "hn_link": "https://news.ycombinator.com/item?id=48384355",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 45,
+      "objectID": "48353348",
+      "title": "A 10 year old Xeon is all you need",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "points": 740,
+      "author": "cafkafk",
+      "created_at": "2026-06-01T06:38:42Z",
+      "num_comments": 290,
+      "hn_link": "https://news.ycombinator.com/item?id=48353348",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 46,
+      "objectID": "48406174",
+      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "url": null,
+      "points": 737,
+      "author": "andrehacker",
+      "created_at": "2026-06-04T23:42:20Z",
+      "num_comments": 1123,
+      "hn_link": "https://news.ycombinator.com/item?id=48406174",
+      "liveness": {
+        "alive": null,
+        "status": null,
+        "error": "ask-hn/no-url"
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 47,
+      "objectID": "48450142",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "points": 737,
+      "author": "unclefuzzy",
+      "created_at": "2026-06-08T19:14:47Z",
+      "num_comments": 564,
+      "hn_link": "https://news.ycombinator.com/item?id=48450142",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 48,
+      "objectID": "48364055",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "points": 724,
+      "author": "1vuio0pswjnm7",
+      "created_at": "2026-06-01T23:45:46Z",
+      "num_comments": 1273,
+      "hn_link": "https://news.ycombinator.com/item?id=48364055",
+      "liveness": {
+        "alive": false,
+        "status": 403,
+        "error": null
+      },
+      "wayback_url": "http://web.archive.org/web/20260603193922/https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai"
+    },
+    {
+      "rank": 49,
+      "objectID": "48487029",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "points": 715,
+      "author": "vrganj",
+      "created_at": "2026-06-11T06:42:06Z",
+      "num_comments": 316,
+      "hn_link": "https://news.ycombinator.com/item?id=48487029",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    },
+    {
+      "rank": 50,
+      "objectID": "48427643",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "points": 708,
+      "author": "speckx",
+      "created_at": "2026-06-06T18:35:27Z",
+      "num_comments": 266,
+      "hn_link": "https://news.ycombinator.com/item?id=48427643",
+      "liveness": {
+        "alive": true,
+        "status": 200,
+        "error": null
+      },
+      "wayback_url": null
+    }
+  ]
+}
