@@ -8,7 +8,7 @@
 set -euo pipefail
 
 url=${1:?usage: vidgrab.sh URL [ROOT]}
-root=${2:-$(cd "$(dirname "$0")/.." && pwd)/data/media}
+root=${2:-$(cd "$(dirname "$(readlink -f "$0")")/.." && pwd)/data/media}
 
 video=$(yt-dlp --no-simulate --no-playlist --write-info-json --print after_move:filepath \
   -S 'res:1080' -o "$root/%(upload_date)s-%(id)s/video.%(ext)s" "$url")
